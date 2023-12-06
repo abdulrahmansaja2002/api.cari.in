@@ -1,0 +1,17 @@
+# ignoring .env file
+.env
+
+# ignoring __pycache__ folder
+__pycache__
+
+# experiment files
+experiment.py
+*experiment*.py
+
+# git files
+.gitignore
+.gitattributes
+.gitmodules
+
+# .git folder
+.git/

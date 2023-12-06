@@ -1,0 +1,876 @@
+88392 Why is closure important for JavaScript?
+16708 How do you stay motivated for hobby projects?
+88028 Be a better programmer or an irreplacable employee?
+64671 For a large website developed in PHP, is it necessary to have a framework?
+23507 What is the path to JavaScript mastery?
+8544 MonoTouch vs Objective-C for iPhone/iPod/iPad development
+145437 Why use an interface when the class can directly implement the functions?
+164599 Verification of requirements question
+3747 How can I sell a legacy program rewrite to the business?
+210327 What is the one or the few major changes from Java 6 to Java 7, couldn't JBoss do that already with Java 5?
+170138 Is this a violation of the Liskov Substitution Principle?
+232812 Too many CS files in a single project
+109279 License validation and calling home
+206816 Clarification of "avoid if-else" advice
+201894 embedding programming languages into other languages
+131314 Certifications needed to get an interview with no experience and no degree.
+42817 Why not Spring framework?
+204443 Coding convention regarding the usage of underscores
+38566 The importance of javascript and the best way to learn it?
+236903 What are the benefits of using Polymorphism 'in the real world' - as opposed to not using it?
+36175 What are the disadvantages of writing code before writing unit tests?
+89947 How can I keep my visualstudio database project in sync with my database?
+41545 Reasons to Use a VM For Development
+86656 Are "TDD Tests" different to Unit Tests?
+89491 Almost graduate, how to prepare myself for the "real world"?
+120628 Is using build-in sorting considered cheating in practice tests?
+155469 Keep coding the wrong way to remain consistent?
+154593 How to get motivation and time to learn outside of work?
+13676 Would you allow your programmers to use Messenger and social networks like Facebook?
+199303 How can a non-developer help promote/develop unit tests?
+56848 How does one keep up with all the new tools/languages/framework?
+118301 A simple ways to improve the release quality in RAD environment
+161809 Is it typical for a unit test suite to be larger than the code it tests?
+167890 Is StackOverflow making me stupid?
+223815 Auto Transaction Failsafe's, Coldfusion Schedule Files
+21403 Why do large IT projects tend to fail or have big cost/schedule overruns?
+197251 Write then optimise or write optimised
+110518 Binaries in source control
+198995 Evaluate one's skill and improve it?
+115920 First Steps of Making a Programming Language
+9944 What is the difference between software engineer and software developer?
+9948 How to sell a high SO reputation at an interview
+57435 How to Structure Bonuses for Software Developers?
+223596 Should I refactor a F class from code climate?
+133872 Localised programming languages
+4765 When do you know it's time to move on from your current job?
+130743 How do I choose what code to review?
+202889 Getting work done in a small office
+111003 How to promote my open source project
+254936 Database conceptual Question
+129603 How do I approach a coworker about his or her code quality?
+161303 Is it bad practice to use public fields?
+82286 Open Source Licenses Question
+117766 How can I learn to write idiomatic C++?
+116491 Do employers care about what college your degree is from?
+201237 I am incompetent; how can I fix it?
+102518 What are the benefits and disadvantages in the approaches of C#, Java and Scala to Closures/Lambdas/...?
+223718 Specifics of Switch and If statements
+193996 How important is it to have a computer science degree?
+26642 How useful is a portfolio of home projects?
+92393 What does the Spring framework do? Should I use it?  Why or why not?
+130582 Linux Programmer moving to Windows
+145055 Are there guidelines on how many parameters a function should accept?
+192 Is test coverage an adequate measure of code quality?
+147977 Is it wrong to use a boolean parameter to determine behavior?
+40063 Should character encodings besides UTF-8 (and maybe UTF-16/UTF-32) be deprecated?
+18679 How do I learn algorithms and data structures?
+137344 How does one decide if a data object type should be designed to be immutable?
+6476 Have you tried programming via Collaborative Text Editing?
+69242 How to get started in opensource projects and programs
+81131 Going from PHP to Java
+100095 Should organizations penalize developers for the amount of defect reports filed against code they worked on?
+210532 What are the alternatives to resx file
+218121 Good fix vs Quick fix
+124533 Will it hurt my reputation if I don't deliver what I'm expected to?
+253026 Python case statement?
+111633 What does SVN do better than Git?
+28050 API/Technical Writers Guide
+147185 How does a beginner programmer find a mentor for learning from doing?
+163752 How can I give a basic idea of what I'm working on to a non programmer?
+220023 Evolution versions of applications
+110270 What's the difference between Enterprise Architect , Software/Solution Architect and a Dev Senior?
+253650 How to write a user story specific to tasks in this case
+195719 Functional Programming: efficiently handling whole world changes?
+176471 Seeking documents on the philosophy of Google's Go?
+51987 How to include an apache library with my opensource code?
+194395 Command line tools vs IDE (Eclipse )
+81674 Do you create a design with UML before you start?
+233038 Why many Ruby gems won't work on Windows
+27410 Is there a canonical book on Ruby on Rails?
+115769 What are these different Java versions for?
+225931 Workaround for Java checked exceptions
+189426 About the usage of assertions
+117852 Using "catching exceptions" to improve readability, Good or Bad?
+61558 Turn away a bug if no reproducible test case exists?
+212932 What's better either pass a class instance to the method or just primitives?
+246532 Estimated work remaining doesn't get lower
+81478 Starting career as SDET, is this a big block to be SDE later (1 or 2 years later)
+133096 Is it OK to put a link to Q&A sites in a program's comments?
+7126 Advantages of object-oriented programming
+219198 Why do modern websites still insist on archaic username/password requirements?
+38265 What does the suffix after software engineer/developer job titles mean?  (e.g. Software Developer III)
+214734 Is programming in layers real?
+195416 Why do we still use a programming language instead of using just SQL?
+153631 Should each app have its own database, or should small apps be merged into one?
+176102 A toolset for self improvement and learning
+190955 Using public final rather than private getters
+211610 Refactorable God v.s. too many classe
+90217 Determining what is a useful unit test
+20684 Why would you use MVC over Web Forms?
+237431 Algorithm to calculate scheduling of task list, check feasibility
+161711 Is it must for a junior Programmer to have a mentor?
+29534 Are debugging skills important to become a good programmer?
+50755 Should I keep investing into data structures and algorithms?
+221234 Is there a license that forbids distribution and gives a Github repo owner full rights?
+95335 How much HTML and CSS should server side developer know?
+110595 git / other VCS - how often to commit?
+118108 Why is an array of characters called a String in Object Oriented languages?
+141961 Teaching java interfaces to absolute beginners: What is a good example?
+251756 Customer is "deeply disappointed" in software because of one bug. How to reply?
+199698 What are the best ways to find fellow coders to work on hobby open-source projects?
+196876 Is C a pre-requisite in order to learn C++ effectively?
+37029 Difference between defect and bug in testing
+136629 Should developers enter bugs into the bug tracking system?
+197056 The need for adding an interface to every class
+234449 How to avoid programmers duplicating code
+108395 Application development practices in a non-software company
+204521 Is there a canonical source supporting "all-surrogates"?
+237157 UML class diagram - instantiation dependency relationship: who depends on who?
+202804 How to organise OO code
+136908 Why Use !boolean_variable Over boolean_variable == false
+215235 unit level testing, agile, and refactoring
+9320 Why is Lisp useful?
+54959 How do I know when my development skills are good enough for a real job?
+209857 Open source development life cycle
+54373 When would someone use MongoDB (or similar) over traditional RDMS?
+89819 Getting management approval to invest more in unit testing
+61745 Effective methods for managing work tasks? (documenting/remembering/prioritizing)
+129520 Difference between static testing and code review
+117403 Will Python developers find it easier to learn C (and vice versa)?
+220444 Should we always write Defensive null check in code?
+105380 Architectural differences between dynamic and static languages
+196930 GSOC along with an internship
+116730 Programming with ADD/ADHD
+18444 What should you bring to the table as a Software Architect?
+189824 I would like to learn to write database-driven web applications. Where should I start?
+89944 if I use .NET Framework for my application, do I have to pay anything to Microsoft?
+228584 Why is BigDecimal the best data type for currency?
+133782 How to properly approach a GitHub workflow as a solo developer?
+123834 Prerequisites to become a technical architect
+10998 What does the Jamie Zawinski's quotation about regular expressions mean?
+158591 How to avoid typo errors, etc?
+96504 How can I teach a bright person, with no programming experience, how to program?
+190542 Steps to open source a small project
+215474 What are the tools required to build a compiler?
+254008 What would you call the concept of CofeeScript or Sass to be?
+21397 What's the recommended control naming convention for XAML markup?
+210637 Program design with multiple data sets, algorithms and results
+210635 Determine dependency between .NET projects
+193895 Responsibilities of Build Script and Build Server
+195073 How to properly design REST
+142612 When Agile goes wrong
+194679 Is it common to spend your first few weeks at a new job trying to fix your designated workstation?
+136634 What degree of mathematical knowledge should a programmer have?
+127535 Has the time gone to think about user with JavaScript disabled in browser?
+199803 Is the development of CLI apps considered "backward"?
+221615 Why do dynamic languages make it more difficult to maintain large codebases?
+221619 How to handle multiple similar projects? Why?
+130335 Why is Scala more scalable than other languages?
+70755 Are long hours and no benefits the norm for a junior programmer?
+102999 Should we use python 2.6 or 2.7 or 3.x?
+238057 Can the possibility of a data race be ignored in some cases? (while having concurrent threads)
+230199 How to identify performance bottlenecks in your software
+225504 Is it normal to look back on codes when coding?
+15004 At which point do you "know" a technology enough to list it on a resume
+239016 Is this the correct understanding of tight coupling and loose coupling
+204938 When is it okay to open-source something?
+229657 Is there a difference between declaring variables outside or inside a loop?
+235645 Singleton: Why is a global point of access bad?
+140264 Is a company order to switch to a certain IDE a red flag?
+174762 How to show code samples in an interview?
+119367 Should service test classes connect to the database
+154339 Advice on SCRUM for the solitary developer
+17898 What's a nice explanation for pointers?
+114520 Is it wrong or bad to use autocomplete?
+229170 Scrum: requirements clarification vs changing scope
+126965 Learning Django by example
+163933 What technologies are used for Game development now days?
+215703 Is the Joel Test really a good gauging tool?
+166884 Should I extract specific functionality into a function and why?
+210864 Is Pair Programming also used to train less experienced developers and bring them up to speed?
+604 Is the 80 character limit still relevant in times of widescreen monitors?
+196366 How to fix quickly, dummy errors?
+114958 Is Safari Books Online still the best game in town?
+91976 On developing deep programming knowledge
+107326 How much Stack Overflow reputation makes it worth putting in CV?
+73304 How do you deal with an information hoarder?
+98509 Why would a company develop an atmosphere which discourage code comments?
+224835 How should I validate code when there is no one to do code review?
+74086 if ('constant' == $variable) vs. if ($variable == 'constant')
+25234 What to do about "stopping point syndrome"?
+87082 web framework or not for web app development
+215727 Double equals (Not equality) during assigning Java
+86904 Why do most of us use 'i' as a loop counter variable?
+144829 Standards for mixing languages within one application?
+19842 What are some well known applications written in F#?
+236415 Is machine language always binary?
+10495 Do you work contract projects in addition to your full-time job?
+14975 What do you do with a heisenbug?
+18371 How do you interview someone with more experience than you?
+114286 What books or resources would you recommend to learn practical OO design and development concepts?
+32425 I still can't figure out how to program?
+114755 Transitioning To Java
+253496 How do we add software to a machine?
+222464 Designing online exam
+193496 What is the netiquette for forking other people's open source projects?
+108292 Java developing server-client solutions
+225153 Best practice or design patterns for retrieval of data for reporting and dashboards in a domain-rich application
+181780 When should the VCS history of a project be deleted?
+23313 Programmers forgetting syntax
+135701 Why is it so difficult to fix buffer overflows?
+99647 How do I adapt to pre-interview challenge questions?
+87321 What is the Best Way to Incentivize a Team of Developers?
+159666 Which programming language is Curiosity written in?
+208698 Multiple meanings for one variable?
+230604 What exactly is procedural programming? How exactly is it different from OOP? Is it the same as functional programming?
+192037 How does understanding computer architecture help a programmer?
+254083 If there's no problem treating a statement as an expression, why was there a distinction in the first place in some programming languages?
+99499 iOS Development Certifications
+252595 Android testing - bugs not reproducible
+143127 Android Development: MVC vs MVVM
+253042 Is it a newbie mistake to avoid branching?
+209479 School vs Self-Taught
+21907 Open Source but not Free Software (or vice versa)
+104517 How can I get more experience with lower level programming?
+186377 Developers taking code home - how bad is it?
+54451 Library vs. framework vs API?
+146810 Interpreting profiling results
+34173 Does heavy library and code snippet usage make you a bad programmer?
+232843 From a TDD perspective, am I a bad person if I test against a live endpoint instead of a mock?
+201844 Ways for a young programmer to not feel intimidated at my first REAL programming job?
+111846 Should you write good documentation and clean code to increase the "Bus Factor"?
+236370 Query regarding MIT licence
+204410 How are GPL-compatible licenses like MIT usable in GPL programs without being subject to the copyleft provision?
+214784 Rails: The Law of Demeter
+119466 Traditional ASP.Net WebForms vs ASP.Net MVC
+97446 If a variable has getter and setter, should it be public?
+195337 Is there any difference between pointers and references?
+53517 What does Tim Peters mean by "complex is better than complicated"?
+225870 Deploying Database Schema changes in a patching process
+240612 Forking BSD-Project and changing license
+142974 best way to handle a many to many relationship?
+223027 At what point is version control needed?
+57405 If you have designed (and implemented) a programming language, what to do to make it gain attention/popularity?
+26030 At what point during a project is it unreasonable to leave?
+250707 How should I remember what I was doing and why on a project 3 months back?
+234962 What are the advantages of recursion compared to iteration?
+233615 Joel Test: Quiet working space as a developer?
+35925 When is it more productive to build your own framework than to use an existing one?
+159089 Return magic value, throw exception or return false on failure?
+175583 Alternative to "inheritance versus composition?"
+20092 How do I convince my company to contribute towards Open-Source?
+179618 How to test if a hashing algorithm is good?
+80826 What should I do to leave a job professionally?
+220872 Structured code vs Duplicate code. Modifiability
+122233 How to deal with checked exceptions that cannot ever be thrown
+238325 Is it okay to not completely understand code functionality?
+110788 Anonymous chat and fear of talking openly
+118558 How do I make code open-source?
+111788 Selling a webapp: I don't want sell my source code!!! What do I sell so?
+193415 Best practices for sharing tiny snippets of code across projects
+206754 What is the best way to track / record the current programming project you work on?
+206755 IDE vs. Text Editor
+57243 Resources for improving your comprehension of recursion?
+158359 How can calculus and linear algebra be useful to a system programmer?
+150633 Exception hierarchy design
+153581 What does RESTful web applications mean?
+167277 How is it possible to write the compiler of a programming language with that language itself
+81705 Rewriting GPL code to change license
+152678 Save match details to SQLite or XML?
+222362 If I fork an open source project and make improvements in the fork, will it or I offend the original authors?
+61798 How much database access should developers have?
+227720 How to shorten the case statement from hades?
+223250 Do Scrum sprints mean to work at the fastest pace possible?
+15829 Advice for solo programmer whose team will expand in the near future
+79624 What is the reason most people have predetermined fear of programming & how should skilled make them fearless?
+45378 Is commented out code really always bad?
+119814 What should be tested in Javascript?
+43796 How to open-source a project whose git repository has copyrighted media in the history?
+14831 How to teach Exception Handling for New Programmers?
+175561 When to open source a project under development?
+67960 When do you not give help to less experienced programmers?
+199838 How can I avoid editing conflicts repeatedly when merging from one to branch to another?
+154954 How to refactor a method which breaks "The law of Demeter" principle?
+165668 How to manage/control software versions?
+222508 Can you call yourself a programmer if you don't understand how a computer works
+210049 What kind of programming languages have the highest pedagogical value?
+166314 How Do I Determine the Value of a Technical book?
+52158 What are best practices when giving a presentation to programmers?
+169962 Hiring developers - listing IDE as a requirement?
+189983 Obsessed with finding most elegant solution
+190649 What's the right balance between code consistency and code improvement?
+145722 Freelancing - Share the source code?
+246568 Linking a GPL executable from proprietary .bat script
+235283 How To Invoke A Method When It's Class is Accessed (Any Method) - "OnClassEnter"
+133664 Ideas to get you programming mojo back?
+135993 How can I quantify the amount of technical debt that exists in a project?
+37677 Programming skills, problem solving genius or language guru?
+208867 Component based software engineering vs Service Oriented Architecture
+191759 Can a developer perform testing efficiently?
+95465 Language Choice for Algorithm Competitions
+1319 What questions do you ask about a company before deciding to work there?
+114629 Is there an alternative to Google Code Search?
+103471 How should I handle invalid user input?
+237577 How to (or should I) have one assert per test with object comparisons?
+116148 Which is more important career-wise: Length of time spent on a project, or personal projects?
+138396 How to Mentor a Junior Developer
+246066 Using GPL library in our software
+120488 Programming in academic environment vs industry environment
+215248 Is there an established or defined best practice for source control branching between development and production builds?
+940 What are your favorite version control systems?
+193929 "Too object-oriented"
+95637 How can I tell in an interview if a programmer is passionate about programming?
+160628 version control security
+196990 OOP principles and method names
+247103 How to manage a relatively large one-man project?
+113209 Is garbage collection necessary?
+164665 Programming languages with a Lisp-like syntax extension mechanism
+136449 Importance of bitwise thinking
+170966 Isn't class scope purely for organization?
+254339 When to to use which - Interface vs. Abstract Class?
+179554 What is the difference between technical specifications and design documents?
+1180 VB.Net vs C# debate
+175309 Code maintenance: To add comments in code or to just leave it to the version control?
+111663 Why isn't functional programming embraced more widely? 
+119513 Learning to program without a computer
+211319 Excessive use “this” keyword in Java
+94024 Does unit test increase productivity?
+191191 How to deal with undesired commits that break long-running release builds?
+220890 When did current source control management emerge?
+20653 Is it better to specialize in a single field I like, or expand into other fields to broaden my horizons?
+147273 Confusion about proper use of * wildcard in SQL
+92465 How should I structure our common modules to maximize reuse and reduce duplication?
+194646 What methods are there to avoid a stack overflow in a recursive algorithm?
+228848 How does Java handle cyclic data references when serializing an object?
+205638 When is a catch clause empty
+203776 What exactly is "big O" notation?
+178916 Store image as logic file (in db by using binary format) or physical file (in the server)
+230250 outOfMemoryException in android emulator
+233503 How to reuse c++ code?
+76182 How to get a job with no experience?
+213173 What To Do If I've Found a Vulnerability In a Possible Future Employers Site?
+57576 About plagiarism
+154679 Reformatting and version control
+234820 design patterns in Javascript - toggle functionality
+162583 Why is the rec keyword needed in F#?
+255912 Can I use Agile even when the client doesn't want to participate?
+39378 When should I use mock objects?
+95363 Should code reviewers test as part of the review?
+19558 How to start project?
+245274 How to define different names for the same type and have the compiler check them?
+142292 Are there code reviews in opensource projects? If so, what tools are used to do this?
+111802 Should I learn design patterns or algorithms to improve my logical thinking skills?
+156771 How to get good design when using agile methods?
+196356 iPhone development - Which model to test?
+180012 Is there any reason not to go directly from client-side Javascript to a database?
+233981 Characterization in Testing: Unit test or Functional test
+32617 Would you see any use of a Trilean (True, False, ??)
+200360 How to generate random numbers with a (negative) sloping distribution?
+204840 Difference between application-level and system-level testing
+138642 Is there a drawback in defining multiple small DRY classes, instead of bigger more repetitive classes?
+138643 Why is Python used for high-performance/scientific computing (but Ruby isn't)?
+128548 When should I stop programming / coding?
+125715 Do we still have a case against the goto statement?
+246354 What are the benefits of learning an old programming language?
+84638 What is the objective of unit testing?
+236853 Is there a performance difference between ++x over x++?
+163822 Code Measuring and Metrics Tools?
+123456 What are the most needed skills for someone entering the workforce as a software engineer?
+202273 When does SOAP make more sense than REST?
+226233 Use of LGPL libraries on android devices (in a single closed source .apk)
+171701 Big Oh notation does not mention constant value
+238546 Single programmer working on a project from different computers: is Dropbox a good solution?
+251707 Client-side coding: How to prevent malicious use?
+152094 null pointers vs. Null Object Pattern
+211477 Test Driven Development vs Behavior Driven Development
+164799 QA - Developer communication
+143722 Is there a language that transcompiles to C with a better syntax?
+20023 Is Java (still) the cross platform language of choice?
+111757 Raw JavaScript or jQuery? Where to start from?
+9813 Where do you find the time?
+36961 Where can I find statistics / figures on how long testing should / could take?
+37249 The Singleton Pattern
+115425 Is there a list of common usernames to reserve in a new system?
+186690 Relative value of manual vs automated testing
+136195 Do I need to know how to program before going to university if I want to study programming?
+76801 Why functional programming?
+194958 Which Agile methodology could my small team use?
+139418 Reference public exposed property or private field in other parts of a class
+125108 Will I ever be able to code client-side browser code in a language of my choice?
+237226 Designing XML - confused between attributes and elements
+110471 Open source projects - motivation
+98749 Work in a company as a Soft. Engineer or take a Master?
+98651 What are the advantages of the Intel C++ compiler?
+194373 Learning new concepts is an infinite loop. How do I go about it?
+210346 After years of working alone, other developers will finally see my (buggy) code. What should I do?
+147134 How should I test randomness?
+137439 Intellectual Property Rights - Starting a new Job
+228187 Licensing - Using Standard C Library
+253453 How to convey that a project is too ambitious?
+247135 Using rvalue references to signal function behaviour
+125373 How should I write my if statements?
+134037 Advice for improving analytical skills and thought process
+133565 Programming with a group of people I've never met
+252495 When using Visual Studio 2012 do you have to use the drag and drop system?
+179763 How to create a manager class without global variables nor singletons?
+200362 Does dedicated maintenance work hamper a programmer's career?
+121998 MIT vs. BSD vs. Dual License
+251126 Error messages from Web API, should I use error codes?
+78431 How much should my project manager know?
+150888 Using static in PHP
+198936 How does a new programmer plan a code?
+104111 What is meant by a senior (insert language here) developer?
+74386 How Do You Organize Your ASP.NET MVC 3 Applications?
+141411 What is enterprise software, exactly?
+182009 Why notify and wait are not declared in threads?
+209129 Without C++-like destructors, how do we return resources that aren't managed by garbage collector in Java?
+138026 IF ELSE shorthand. Does it hurt readability
+18059 How do you explain refactoring to a non-technical person?
+144892 Depend on built technology, or build your own
+210623 GPLv3 licensing and Software-as-a-Service web apps
+173320 Does a programmer really need college?
+127867 What programmers should do if there are no tasks in hand for few days?
+201119 Web Authentication using PKI Certs
+254424 Changelog in Comments Versus Source Control Log
+139037 Simple & short license notice for proprietary code
+59606 Is type safety worth the trade-offs?
+28379 Place to have my code reviewed by others
+114258 As a sole developer (for now), how should I be using Git?
+51268 How important is Domain knowledge vs. Technical knowledge?
+25063 Google is good or bad for programmer?
+82227 Programming practice - Is there a site that has a daily "write a method to do X" type challange?
+194106 What are the advantages of server-side Javascript and when would you use it?
+97338 What are the boundaries between the responsibilities of a web designer and a web developer?
+91064 Mono & Commercial Projects
+29109 Is there any reason to use C++ instead of C, Perl, Python, etc.?
+34559 How do you keep track of the authors of code?
+55334 High level vs. low level programming. Do I really have to choose?
+66764 Recomendation for Math books related to computer science
+100959 How do you unit test private methods?
+138726 What are proven advantages of tools like GWT over pure JavaScript frameworks?
+130256 Should I focus on web development or try other technologies?
+185671 Should methods always return from one place?
+55065 How to calculate the quality of software project
+245115 static or non-static, that is the question?
+155659 Java language book for an experienced programmer?
+257 I program from home. What can I do to be more productive?
+97912 How do you define elegant code?
+52833 Is writing comments inside methods not a good practice?
+220049 Verbose or concise logging
+102348 My lead does not co-operate (may be lack of knowledge or unwillingness)
+37987 I've been hired on as a entry-level game developer at a company and have little/no experience in API programming, what should I expect?
+140876 Options for Opensource license?
+206199 What should a self-taught developer learn in order to work with others?
+8886 Can someone find a job as a programmer without an education?
+211678 How to do you judge the value of using TDD or plain unit testing in an Open Source project? Is there a good rule of thumb?
+220343 Which is better approach for writing automated tests?
+186438 Why does File.Open in .Net throw exceptions and not follow exception handling best practices?
+27022 How do you take advantage of your whiteboard in your development team?
+35074 I'm a Subversion geek, why should I consider or not consider Mercurial or Git or any other DVCS?
+251222 How to learn new technologies in short period of time?
+78903 How can I be more productive at work? (additional context inside)
+23276 How does one become a leader in a team of programmers?
+166798 What does "general purpose system" mean for Java SE Embedded?
+78176 How do I comply with the EU Cookie Directive?
+39282 Building a DSL: Scripted atop a general-purpose language or stand-alone?
+100685 Making money with Open Source as a developer?
+73541 Writing an (end-) user documentation
+81838 What is the difference between the factory pattern and abstract factory?
+182207 Can I ask the job interviewer to show me their code before joining the company?
+247382 Value of passing by reference
+94932 Compiler/OS Design - Where to start
+110730 Benefits to starting JavaScript "for" loops at 0, or just traditional?
+191358 How does one sandbox a web application
+97511 What should an embedded developer know on day one?
+60409 stuck on a programming problem solution
+59520 Good interview programming projects
+197443 Whatever happened to Pascal?
+32956 What are the common revenue models for free-software companies?
+104096 Which platform to choose, Java or .NET?
+65918 Importance of learning to google efficiently for a programmer?
+189096 Knowledge Transfer and software development
+93016 Is age a factor when looking for internships?
+84778 Trailing forward slash in directory names - good programming practice?
+144058 Why do different languages use different Code Line Delimiters?
+102679 What should I do before open sourcing a project?
+87452 Internationalization : What things to think about?
+43729 Learning Multiple Languages Simultaneously
+200031 Do I need JUnit tests for the controller layer on a MVC when I have a database layer
+237584 Zero Day Exploit Ethics/Etiquette
+59091 Why does a computer science degree matter to a professional programmer?
+127201 How do you manage extensibility in your multi-tenant systems?
+207815 Why don't we have a non-turing complete general purpose language yet?
+158534 Pros and Cons of holding all the business logic in stored procedures in web application
+210693 Who fixes broken tests?
+116242 How to name parts of your program as a non native English speaker
+71904 Scrum for a single programmer?
+147240 Where are functional languages used?
+132578 What issues should we be aware of converting to Agile/Scrum with a project that's underway?
+91816 When to use a API/Library and when to write your own?
+67931 How do you handle database change deployments?
+136382 Should a novice programmer learn several languages at once?
+140561 Difference between software analyst, software developer and programmer?
+56031 Version control comments - past or present tense
+139171 Defensive Programming vs Exception Handling?
+249892 Started wrong with a project. Should I start over?
+230280 How to address the concerns of the software architect but still maintain collective code ownership?
+234620 Developing an big system in a a small company
+12773 Is the GoF book still the one to read?
+236571 Understanding object-oriented programming: why is it important?
+221030 What is the difference between apache and tomcat in the xampp control panel?
+26371 Do employers hiring for software jobs care about the classes you took in CS masters program?
+120541 Is there a language that allows this syntax: add(elements)at(index);
+163924 Where can I find a punched card simulator?
+42938 Dealing with frustration when things don't work
+53572 How to improve the quality of app descriptions
+104122 Dealing with change requests from clients for an old system that only take 5 minutes to implement
+128044 How to protect own software from copying
+206254 Difference between a server and a client
+208976 Good practice to use namespace or prefix to indicate what file function is from?
+191539 Wrapping specific checked exception in domain unchecked ones?
+46685 Tips for a first year CS student looking for a summer internship to gain experience?
+121167 Why do some languages recommend using spaces rather than tabs?
+197838 What are the downsides of mixing tabs and spaces?
+178018 Tips or techniques to use when you don't know how to code something?
+129543 What is the best way to handle product versioning and branching of long term projects?
+32482 Can an algorithm be patented?
+92339 When do you use a struct instead of a class?
+113726 Simplifying Database Schema for Extensibility by non-expert Users
+196913 Is the use of JUnit feasible for a short duration project of around 3 months?
+146065 Is there really Object-relational impedance mismatch?
+36561 Woes of a Junior Developer - is it possible to not be cut out for programming?
+218184 How should I make searching a relational database more efficient?
+139442 How do I prove I'm a capable full-time hire after 3 years of a CS degree & lots of summer experience?
+255031 How 'child proof' should i write code as a solo programmer?
+123851 How do you estimate?
+123270 Why "Foo" is so a special word?
+7565 How to learn Agile as a Solo Developer
+175014 Strategies for invoking subclass methods on generic objects
+181527 Why is reverse debugging rarely used?
+60994 Why is software schedule estimation so hard?
+55697 How do managers know if a person is a good or a bad programmer?
+230206 Is it better to use already build plugins/extensions or code your own in programming projects
+103133 Is there a canonical source for learning C# and .NET internals?
+225387 C# Code Design Issue
+234001 Is a language that provides more abstractions to use it's own API, considered higher-level than a language that doesn't?
+46434 How can software be protected from piracy?
+246813 Redundant function to clarify purpose?
+203469 If my team has low skill, should I lower the skill of my code?
+28825 Open Source code bounties
+214494 Throwing exception from a property when my object state is invalid
+213449 How do I create every permutation
+250203 Refactoring previous intern's noodle code with future interns in mind
+81591 In the absense of a CS degree, how can I "fill in the gaps" so to speak?
+21230 What are the pros and cons for the employer of code questions during an interview?
+148747 Abstract Data Type and Data Structure
+663 What should be the ideal computer science and engineering course topics?
+98691 Excessive use "final" keyword in Java
+14582 How do you organize your projects folders?
+213603 Handling Server Response Timeouts
+15239 For what problems is object oriented programming not a good choice?
+16528 Single statement if block - braces or no?
+241411 How to structure my java packages
+17696 Writing a Software Requirement Specification
+122437 How to organize functional programs
+98324 When does TDD fail?
+2654 What parts of your coding standard contribute to quality code?
+6625 How to recruit programmers for an open source project and kick-start it?
+202903 Do teams get more productive by adding more developers?
+203362 Need help understanding Mocks and Stubs
+38087 What does a standard code review contain?
+103089 How to improve my programming knowledge?
+43086 Colleague unwilling to use unit tests "as it's more to code"
+221365 Mozilla Public License (MPL 2.0) vs Lesser GNU General Public License (LGPL 3.0)
+194321 Software Design and architecture from Scratch
+234511 What is the best practice for arranging third-party library licenses "paperwork"?
+101164 How difficult is it to transition from a software test engineer to a software development engineer?
+203970 When to use primitive vs class in Java?
+135970 how can I improve my c++ skills
+190758 Should I check integrity in my application code or defer to the database?
+108855 When is it necessary to use ORM tools?
+233342 Best practices for introducing testing to a large, stable, legacy Java application?
+244866 Matching the superclass's constructor's parameter list, is treating a null default value as a non-null value within a constructor a violation of LSP?
+212575 Why are algorithms and data structures important?
+16010 Is it bad to use Unicode characters in variable names?
+204206 Painfully Stupid Method Names in Legacy Code: Fix or Leave as Warning?
+168685 Does software rot refer primarily to performance, or to messy code?
+24542 Choosing a functional programming language
+59496 What pricing model has more benefits in mobile app stores: free or paid?
+115910 Does adding unit tests make sense for well-known legacy code?
+196139 Programming by Intention, Depth-First or Breadth-First?
+133330 What's wrong with mutability and can it be desirable?
+224752 In which file types I should include the copyright header?
+131408 Java GNU Licensing
+108309 Extracting user requirements from a person who does not know how to express himself
+19750 How to get back to Software Engineering after a break?
+94780 Do Diversified Skills Foster or Hinder Specialization?
+230778 Should I consider loosely-coupling for class methods as well?
+12472 How to deal with customers who don't understand the complexity of their requests?
+211276 Why would I ever use delegates if I'm not doing events?
+215427 What should I do if I have a genius team lead which does not share?
+154155 Should you keep a copy of all the code you write?
+90438 Monitor screen size and programming ease
+235468 How can I make my logging more useful?
+244705 What kind of code would Kent Beck avoid unit testing?
+251643 Which language introduced the idea of private (hidden) variables?
+2757 How many monitors do you use? Why? How they are used?
+132520 How to emphasize the differences between Software Engineering, Computer Engineering and Computer Science to high schoolers?
+196546 What is a good analogy to explain how software development is different than building a bridge?
+34485 What is the difference between all-static-methods and applying a singleton pattern?
+224036 How to isolate a massive and changeable web service
+117825 Is it ok to write a quick software programme and then refactor it?
+22146 Best books on the theory and practice of software architecture?
+131381 What are the best-practice / norms to order functions in files or classes?
+93462 Career Prospects: Women at Management positions in Software
+205562 Good logging technique for small projects on Java
+241389 Should interface only be used for behavior and not to show logical data grouped together?
+179162 Best way to protect website application code
+78956 I no longer want to be a developer
+151103 What is the purpose of "re-type your email" field?
+32571 design pattern for unit testing?
+165725 Git branching and tagging best practices
+190853 Is using `continue`, `break` in non-`switch` loops and `?:` bad practice?
+141973 How do you achieve a numeric versioning scheme with Git?
+132281 Are C and/or C++ viable/practical options for web development?
+115525 Packages organisation with MVC design pattern
+121218 What are the pros and cons of storing files in DB2 vs folders?
+40297 What is a "side effect?"
+238386 Is inheritance that adds rules bad?
+8958 What are signs that a project might turn out bad?
+26901 How to convince your boss to give you a better developer machine?
+111881 How much do i need to learn in order to get an entry level asp.net job?
+51465 How to differentiate between trivial and non-trivial software?
+198549 Re-architecting a classic inheritance design
+201041 Programming against a protocol in Objective-C
+184874 Is Ken Thompson's compiler hack still a threat?
+125252 Worth it to Learn an Archaic Language?
+89554 Is learning technology by reading books obsolete?
+7536 If you favor "T *var", do you ever write "T*"?
+200064 Is there a unified source code documentation generator?
+97660 What recommendations can you give in managing a team of remote software engineers?
+250953 Referencing StackOverflow questions in comments
+84001 Is it worth Learning XML as a web developer when JSON is better for AJAX?
+85019 Making an internship most effective, useful and fun for both parties
+139663 Confusion about dual license (MIT/GPL) javascript for use on my website
+166895 What are the problems python 3 new features solve?
+198240 Approaches to isolating tests that require a database?
+156794 Database lock on gSoap server during storing data in table
+91945 How are you handling browser compatibility in the new "rapid release" world?
+187026 How to get better at debugging?
+218447 Do algorithms published in academic journals need to be licensed?
+750 What should you test with unit tests?
+136993 Interpreted vs Compiled: A useful distinction?
+13786 How is software scalability measured?
+239210 Theoretically bug-free programs
+240454 Should I feel "uncomfortable" using auto in C++?
+179002 IoC containers and service locator pattern
+246634 Select design pattern - user stage
+97832 How to motivate someone(including myself) not to give up learning something?
+131451 Difference between Dependency Injection (DI) & Inversion of Control (IOC)
+97357 Programming at Home vs Programming at Workplace
+102008 Why isn't the line count in Visual Studio zero-based?
+140004 Why choose an established CMS as opposed to building one from scratch?
+72768 Does "Inversion of Control" promote "Anemic Domain Model"?
+194975 Readable regular expressions without losing their power?
+240734 For web apps (vs web pages) why not put scripts and css inline?
+77731 Does Salary mean being On-Call 24/7?
+134244 Is validating HTML a thing of the past?
+252532 Should I place functions that are only used in one other function, within that function?
+49836 Are there any downsides of 2 developers getting married?
+175594 C++ - Constructor or Initialize Method to Startup
+210360 Stopping developers committing to the wrong branch on DVCS
+109818 Is code like this a "train wreck" (in violation of Law of Demeter)?
+221009 SPA thin or thick architecture
+205359 API Authentication, One time token VS Dynamic tokens
+66834 What is the best practice for gathering requirements when a customer does not know what he wants?
+193586 Using a development language (Python) before putting it into C++
+97785 My Dad is impatient with the pace of my learning to program. What do I do?
+80694 How do I choose an Android phone for testing my application?
+180165 Hardware requirements
+15286 Best approach to learning web programming
+84909 Jobs that use programming which aren't in the technology sector
+224434 Why do we still use floats?
+201130 How do you balance out code structuring (few big functions vs. many small ones)?
+242610 what's the point of method overloading?
+185712 Bridge Design Pattern - I still don't get it
+237738 Should failing unit tests that we're not going to fix be removed?
+162931 How to avoid being an API programmer only?
+166136 Switching licenses, or cross licensing existing GNU GPL v3 software
+46513 Working for international NGO's as a programmer
+209764 catch(Exception ex) would this example be a code smell?
+188381 Engineering interview candidate refuses to use whiteboard
+31558 version control for small team
+140266 To program in free time as a programmer, is to show that programming is passion. If not, is the programmer good?
+73934 Should CSS be listed on your resume under Languages?
+129141 Is CSS a programming language?
+191961 Why do some big projects, like Git and Debian, only use a mailing list and not an issue tracker?
+126130 Example of an Object Oriented System design
+93826 How do I explain "Recursion" to a 8 years old kid?
+95942 "Benefit Package" as part of consulting fee
+225354 Logic inside class properties setters & getters
+186465 What will be the better way for data retrieval on application that needs to handle limited amount of data?
+44959 Is C++ suitable as a first language?
+209070 Tips for managing an offshore development team
+208815 Drawbacks of using pure html in webforms?
+103263 Scrum: how to handle backlog-items that are longer than one sprint
+60216 Does programming knowledge have a half-life?
+79765 What is "the Cloud" and how does it relate to development?
+24804 Is Page Scraping and Data Mining Moral / Legal?
+36731 Where do you draw the line for your perfectionism?
+138182 Can Javascript code be encrypted making it hard for someone to copy?
+182229 Why does Java's Collections.unmodifiableList return a List interface instead of an UnmodifiableList interface?
+133424 Being the goto developer vs being a solid team member?
+122244 Single Line Conditions and Loops - Best Practice
+111475 C++ Renaissance - marketing slogan?
+118064 Is it necessary to know and understand design patterns in order to be a professional programmer?
+196700 How to maintain a steady pace at development?
+95626 Getting start with Zend PHP framwork
+216195 Should single purpose utility app use a class
+243347 Regex to String generation
+67707 When and why you should use void (instead of i.e. bool/int)
+91629 Best Java book you have read so far
+77146 Why to let / not let developers test their own work
+136774 Flipping the desired bit of an integer number
+138447 Can I show previous company work in a CV portfolio?
+8588 What's the history of the non-official pronunciation of SQL?
+121887 How to estimate effort required to convert a large codebase to another language/platform
+61980 Is ageism in software development based on anything other than bias?
+46252 How to explain a layperson why a developer should not be interrupted while neck-deep in coding?
+57047 How do you classify bug severity? 
+159373 What backs up the claim that C++ can be faster than a JVM or CLR with JIT?
+114819 Are 9 to 5 programmers looked down upon?
+209609 How to use unit testing?
+3997 Does off-shore resourcing work?
+223148 Two months in my new job, still having trouble learning a new codebase. How can I improve?
+216301 Are there any formalized/mathematical theories of software testing?
+95373 How much time do you / is acceptable to waste?
+195656 Power of HTML5?
+118140 How can I get the benefit of working with a co-worker if I have no co-workers?
+124817 Using frameworks or writing code without any framework ? Which is better for 3 months aged PHP programmer?
+97269 How do you handle a graphic designer who thinks he's a web designer?
+21256 Why do we study Java at university?
+55267 How do you balance documentation requirements with Agile developments
+23652 How can I promote software reuse in a large company?
+52961 Need for a framework
+113295 When to use C over C++, and C++ over C?
+210472 Is renewal of MIT license needed on github at the beginning of each year?
+144556 Is continuous integration useful for a team of two developers who write a lot of code?
+137973 if it's been designed correctly is AOP useful?
+213070 What are the guidelines for either throwing an exception or failing silently for nonvalid arguments?
+215042 How to cut the line between quality and time?
+216639 Unit-testing code that relies on untestable 3rd party code
+144717 Advantages and disadvantages of building a single page web application
+107774 With agile, what do when a user story doesn't get completed in an iteration?
+233592 Unit testing of non-atomic methods
+135047 New to TDD. Should I avoid private methods now?
+193269 Unit-testing functions without business logic (only checks)
+117030 What is the point of Java's package naming convention?
+10857 Should you document everything or just most?
+81062 Data input validation - Where? How much?
+131701 Search algorithm with co-ordinate (x,y) hints?
+228973 Upgrading old ASP classic to newer standards
+107986 Should we encourage coding styles in favor of developer's autonomy, or discourage it in favor of consistency?
+234066 Publish an app on Google Play from Iran
+227993 Coding standards for c#
+199162 Should I write compact code or code with lots of spaces?
+7242 What are the chances of Google's Go becoming a mainstream language?
+213452 Is there any reason zero should still equal false in a new programming language?
+58887 How do you feel that it is time to move and learn another programming language?
+74493 Proper syntax formatting for SQL?
+159626 Licensing for hosted open source and 3rd party libraries
+95786 How did the idea of Exception-handling emerge into programming languages?
+93124 EAV - is it really bad in all scenarios?
+24170 After how much experience, should one start to use a framework for serious development?
+203483 What is a Non-Functional Requirement?
+237065 How to know what to test in TDD?
+66735 What do great APIs have in common?
+17341 Compiler Warnings
+226357 Should unit-tests be entirely self-contained?
+230534 Able to read Code but struggling majorly to write it
+7747 Do you think that exposure to BASIC can mutilate your mind?
+215826 Make methods that do not depend on instance fields, static?
+23021 Refactor or Concentrate on Completing App
+219028 How to safeguard a REST API for only trusted mobile applications
+218869 Is explicit else needed in initialisers?
+237593 how to find average bits per symbol using huffman code?
+156848 Designing a library that is easy to use: composition or inheritance
+71917 Getting involved with an Open Source Project
+199873 Is it bad to use giant label comments to mark off sections of code?
+130948 Stack-instructions machines
+47370 Java dev learning Python: what concepts do I need to wrap my head around?
+64722 Getting Overwhelmed: Tips for noobs
+212300 Why are CIL and CLR required in .NET?
+93245 Software Testing Techniques
+250291 Why does C have no competitors in low level stuff?
+98905 How can I get better at whiteboard interview questions?
+141232 What's shell script's advantage over interpreted programming languages?
+146272 Method size in an OOP language, for instance - in Java
+158397 Do large test methods indicate a code smell?
+53612 Is it essential to learn algorithms to be a real programmer?
+49959 Recommended books on C++
+163408 How do I advertise for volunteers for my open source project
+67750 Can one forget programming if it is not practiced for some time?
+227818 Is it bad practice to encapsulate a single operation in a class?
+25600 What would you consider best practice workflow tools for web application (PHP) development?
+17568 As a programmer, are you required to do timesheets?
+150479 How to make sure the application source code has a proper documentation for new programmers?
+36925 Weeding out real agile from buzzword agile in an interview
+62765 How can I get into "programmer mind" more quickly and more often?
+253267 Equal or less than 15 lines per method(function) principle?
+200497 Tex and Absence of bugs
+200861 How does the operating system regain control when multitasking?
+84966 Should Git be used for documentation and project management? Should the code be in a separate repository?
+120477 What Part of Your Project Should be in Source Code Control?
+112974 If not working an internship, should I work for free?
+62060 Intentional misspellings to avoid reserved words
+3766 How to tackle a boss who thinks everybody in this world is wrong except him?
+200709 Is the usage of internal scope blocks within a function bad style?
+197746 What is the benefit of the MoSCoW technique?
+17826 How do people read big technical books?
+116330 Why don't more languages support recursive/nested comments?
+14645 What are effective interview questions?
+205279 How your team manage shared password/key
+68867 How to decide between storage formats and what are example use cases for some of them?
+231491 Why is quality engineering difficult?
+237935 High-Level Classes and Low-Level Classes
+93848 How to measure an IT workplace?
+492 How important is the ability to touch-type?
+122071 What's cool about Lisp nowadays?
+85691 Building websites, which is the better approach MVP or MVC?
+29513 Is reinventing the wheel really all that bad?
+145518 Teaching Programming to Kids
+165735 Improving without mentor
+116988 How to improve typing skills for a developer
+196260 Does a programming language have to be compiled to be considered a programming language?
+57068 Why are objects passed by reference?
+107265 When should I start learning a PHP Framework
+199827 I don't understand how TDD helps me get a good design if I need a design to start testing it
+186932 How to deal with Ghost bugs which appears in undocumented test-case scenarios?
+132074 How do I write a specification?
+177907 What's the difference between VBA and VB Script?
+204580 managing information/functionality on shared common project classes
+236473 Advantages and disadvantages of making one DB per customer
+1200 Is there a canonical tutorial or book on functional programming concepts?
+210496 Is it common to run out of work towards the end of a sprint?
+180904 Are header files actually good?
+195094 Day-to-Day Differences between Software Engineering and Web Developer Positions
+98758 Will using Linux make me a better programmer?
+202770 Why should I adopt MVC?
+95933 What are practitioner's thoughts of the IEEE software engineering certifications?
+196615 XML vs SQL for content display on an ecommerce website
+96638 Interviewing a developer who's skilled in a language you don't know
+250164 Can someone help me understand MVC?
+200545 Over thinking development
+16732 Unit testing internal components
+110190 How granular should TDD tests be?
+112485 What is the benefit of studying bitwise operators?
+106693 Should a design document contain a discussion of the pros/cons to a given design or should it focus on facts and rationale?
+36297 Switching Programming Languages
+230145 what is the meaning of f(n) = O(g(n))?
+41981 Where can I find programming work online?
+211640 Switch Parent Children relationship in C#
+35610 test driven development - Who should write the tests?
+74580 Looking for Case Studies of How TDD Improved Quality and/or Speed of Development
+138908 Is a Front-End Web Developer a "Programmer"?
+133937 Methods to rewrite a program

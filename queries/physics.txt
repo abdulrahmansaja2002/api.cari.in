@@ -1,0 +1,1039 @@
+110554 Magnetic field resistance material: are there any?
+11542 Why is gravitation force always attractive?
+89377 What actually is meant by wave nature of electron or any other material particles?
+89378 de Broglie relations: calculate wavelength using two different approaches
+120124 Why is the earth shaped like a sphere and not any other shape: cube, prism?
+271 Why don't spinning tops fall over?
+19970 Does the scientific community consider the Loschmidt paradox resolved? If so what is the resolution?
+16708 Why does it seem like a broken magnet's poles flip?
+88026 Will an object resting on a rotating platform move in a frictionless world?
+12012 Is spacetime simply connected?
+17259 How fast does force propagate through matter?
+64670 Is it possible (theoretically) to divide Black Hole into two parts?
+53734 How do we make symmetry assumptions rigorous?
+46798 The meaning of imaginary time
+46863 Why is a cycloid path the fastest way to roll a ball downward?
+134809 Projectile with air resistance
+118807 In quantum mechanics, why position and momentum are related by Fourier Transformation(only)?
+29766 Why does photon have only two possible eigenvalues of helicity?
+111546 Can I measure a journey time < 100 years on a 100 light year voyage?
+60900 About hubble observatory and distant galaxies
+16885 Inertial frames of reference
+391 Is anti-matter matter going backwards in time?
+75286 does time exist in space or does space exist in time
+102941 How many physical degrees of freedom does the $\mathrm{SU(N)}$ Yang-Mills theory have?
+60016 exercise books for Feynman diagrams
+102363 General relativity, gravity and spacetime curvature
+100197 Finding charge (electromagnetism course)
+9751 Why don't we consider centrifugal force on a mass placed on earth?
+109850 Was the mass of the universe the same when it first began as it is now?
+111959 How can we know that a black hole exists?
+35218 Why do some physicists believe that scalable quantum computing is possible?
+10252 Why is travelling around the speed of light a problem?
+63023 I read a book saying bernoulli's flight equations didn't have as much impact on lift as most people think
+43859 Would it be possible to transmit information through gravitational waves?
+24588 Why don't we see solar and lunar eclipses often?
+5057 Does string theory provide quantitative experimental predictions?
+38561 Magnetic field lines
+71772 How can we deduce the relation $m = \frac{m_0}{\sqrt{1-\frac{v^2}{c^2}}}$ between relativistic mass and rest mass in special relativity?
+12589 Are there formulae for calculating stellar luminosity and effective temperature as a function of age?
+123055 Electromagnetic Field VS Photons
+81561 Why can we skate on ice?
+73329 Born's Rule, What is the Reason?
+45634 Impurity scattering temperature dependence
+9194 What is the Physical Meaning of Commutation of Two Operators?
+112866 If I'm floating in space and I turn on a flashlight, will I accelerate?
+90128 String Theory- Are strings the end? What are they made of?
+29355 Reading the Feynman lectures in 2012
+109364 Can 'Backradiation' warm its own source?
+67571 Is time slowing down and disappearing from the universe instead of the expansion of universe?
+68639 Why are eigenfunctions which correspond to discrete/continuous eigenvalue spectra guaranteed to be normalizable/non-normalizable?
+129378 The universe could have created itself?
+56470 What is the formula for calculating the length of any given day (sunrise to sunset)?
+26066 Why is there a limit to the intensity of cosmic rays at low energies?
+18563 What exactly is a quantum of light?
+71576 Static friction greater than kinetic friction
+133876 Maximum voltage on metal sphere?
+47259 If everything in the universe doubled in size overnight, would it be noticeable?
+103931 Does light color change when refracting?
+116851 Why are the 'color-neutral' gluons confined?
+109636 Why are people weightless whilst in orbit around the Earth? ISS? Satellites?
+12463 Einstein's postulates <==> Minkowski space. In layman's terms
+112476 Water Displacement in the Oceans As a result of Global Warming
+19262 What's the standard "roadmap" to learning quantum physics?
+105681 Integrating for speed
+81480 Why is the wave function complex?
+82821 current in wire + special relativity = magnetism
+46089 Elastic collision in two dimensions
+2554 How is the classical twin paradox resolved?
+94132 Geodesic for Electromagnetic forces
+94133 Acceleration reaches speed of light?
+52555 Does light reflect if incident at exactly the critical angle?
+102517 Are continuous mathematical models of discrete physical phenomena messy because of a disconnect between “continuous” and “discontinuous”?
+80467 Why does time reversibility imply equilibrium in a thermodynamic system?
+125938 I still don't understand how a gas with an equation of state f(T,p,V)=0 can change if 2 state functions are fixed?
+79085 Way to become a physicist
+37881 Why is torque not measured in Joules?
+92571 Would Beetee's electrocution plan work and kill the tributes in the lake?
+1442 If time standard clocks and any memories about the time standard are destroyed, can we recover the time standard again?
+23038 Why does the sound pitch increase on every consecutive tick at the bottom of a filled cup of coffee?
+198 Do current models of particle physics explain the chemical properties of elements/compounds?
+193 Best books for mathematical background?
+70541 Canonical everyday-life example of a technology that could not work without humans mastering QM in analogy to the application of GR in GPS?
+14142 Maximum limit on the number of paper-folds possible after tearing into halves
+18670 ALL "forces" as manifestations of properties of space-time
+87476 Could two different bases of a Hilbert space have different cardinality?
+27496 Is the universe a quantum computer - is light speed barrier a computational constraint
+13325 What is the minimum amount of fissile mass required to acheive criticality?
+44718 Elastic Collision Between Two Objects
+121476 What happens if the earth stops rotating?
+134157 Can mass be totally converted into energy?
+11878 A No-Nonsense Introduction to Quantum Field Theory
+1683 Mechanics around a rail tank wagon
+1686 Why does the (relativistic) mass of an object increase when its speed approaches that of light?
+312 Particle physics getting started
+118717 Newton and the change of mass with time
+102366 gravitational lensing
+82125 Is the universe immediately dependent upon the past?
+116842 What would happen if I was in the centre of the Earth?
+61948 Did space and time exist before the Big Bang?
+69726 Does trade affect Earth's rotation?
+21319 How can anything ever fall into a black hole as seen from an outside observer?
+56973 Why does the speed of light $c$ have the value it does?
+62637 The potential and the intensity of the gravitational field in the axis of a circular plate
+55091 How small are the smallest black holes?
+100251 Linear Algebra For Physicists (Book Recommendations)
+4453 How could spacetime become discretised at the Planck scale?
+39654 Paradox with Gauss' law when space is uniformly charged everywhere
+133093 What formula connects the moment of inertia and angular velocity?
+133096 Expanding universe and the speed of light
+47941 Dumbed-down explanation how scientists know the number of atoms in the universe?
+82874 Torque direction meaning
+39131 Light orbiting a massive body
+16626 Are there any good audio recordings of educational physics material?
+16620 Force on rope with accelerating mass on pulley
+12756 A flying fly inside a sealed box on a scale
+21487 Train crash: are these situations alike?
+54317 In what limit does string theory reproduce general relativity?
+13157 What is a field, really?
+44509 Photon energy - momentum in matter
+1343 Why does dust stick to rotating fan propeller?
+8379 Do Hydrinos Exist?
+119673 Can we use quantum entanglement as a way to send information or data?
+32501 Many-worlds: how often is the split how many are the universes? (And how do you model this mathematically.)
+98027 What is the universe 'expanding' into?
+75363 How is the Schroedinger equation a wave equation?
+110330 Do oceans produce the cosmic microwave background?
+116657 Force applied on the ground
+106378 Centrifugal force when there is no friction
+52062 Is it possible to speed up radioactive decay rates?
+24841 Geocentric Model in General Relativity
+105483 Reducing the Tsunami impact using Nuclear bombs
+80433 Derivation of Newton-Euler equations of motion
+113973 Is it possible to create matter?
+68573 Two balls falling one above the other
+109957 How does Einstein got equivalent mass - energy equation E=mc2?
+35313 How does a treadmill incline mechanism work?
+87829 How Can There Be Magnetic Force Without Velocity
+92747 How can a proton be converted to a neutron via positron emission and yet gain mass?
+87715 Voltage in a short circuit system
+92662 Is everyone seeing the same color as I see?
+73528 Singularity in a black hole
+134199 Why is uncertainty $\geq {\hbar}/{2} $
+38404 How is Gauss' Law (integral form) arrived at from Coulomb's Law, and how is the differential form arrived at from that?
+78827 What are those characteristics by which every sound can be identified uniquely?
+18602 What exactly is the 'observer' in physics and/or quantum mechanics?
+133924 What if there was a hole between earth poles
+126504 When they say that the universe cooled after the big bang, where did the heat go?
+26478 Can black holes actually merge?
+81779 how does an electric field comes inside a conducting wire inside the circuit?
+107919 galaxies fading away after time
+53602 What is movement through time?
+21721 What is the proof that the universal constants ($G$, $\hbar$, $\ldots$) are really constant in time and space?
+49940 What exists in the Space between atoms
+68112 Formula for Symmetry Factor
+45067 Momentum as Generator of Translations
+2860 How does electron move around nucleus?
+68898 Is it possible to generate usable electricity from the motion or magnetic field of the Earth?
+24231 When Physicists thought neutrinos were faster than the speed of light
+28699 Superconductivity reasons (Intutitive)
+76726 If I travel close to the speed of light and come back, why is everyone else dead, and not me?
+67746 Why two balls of different mass dropped from the same height falls the ground at the same time?
+126264 On becoming theoretical physicist
+51295 Different perspective in Quantum mechanics
+60830 Why isn't temperature measured in Joules?
+96010 What is difference between Inertial mass and gravitational mass
+2051 Why do we think there are only three generations of fundamental particles?
+2056 Why is it that using cell phone can invite lighting strike?
+134979 Does gravity weaken by the square of the distance because the energy is dispersed over the square of the distance
+83265 Explanation of photon reflection
+108924 Chemical potential of photons
+71639 Is it possible for a photon to be at rest?
+76367 Water coolso object by heat absorption
+107671 If 'pure energy' is photons, and energy is conserved, how can matter and antimatter (electrons and positrons) annihilate into photons and vice-versa?
+33998 Why is it that protons and electrons have exactly the same but opposite charge?
+39344 Helpful tutorials on force
+108212 What's the relationship between $SL(2,\mathbb{C})$, $SU(2)\times SU(2)$ and $SO(1,3)$?
+108214 Applications of low-dimensional topology to physics
+86345 Intuitive understanding of centripetal vs. centrifugal force
+119284 Experimental proof of the principle of superposition in QM
+6682 Software for geometrical optics
+10163 Special Relativity and time
+10161 Is there a good chance that gravitational waves will be detected in the next years?
+44130 What are the properties and characteristics of a single Quantum?
+1601 Classical mechanics without coordinates book
+94819 Because position is relative, is it possible to see a star orbiting a planet?
+94812 How are the triangular Lagrange points in a Three body Problem stable, yet having a higher effective potential?
+29901 How is traveling back in time possible in theory according to some scientists?
+29903 Why do people recommend wider tyres in car for better road grip?
+51908 Why aren't gas planets and stars fuzzy?
+43023 Why does the moon look bigger at the horizon?
+90908 Could Dark Matter form black hole?
+45743 Ice skater increase of energy
+113548 Active noise cancellation technology measurements
+127616 How should a math undergrad student prepare himself to study GR and QM?
+37966 Reaching the speed of light, rockets
+127538 Are there any applications of elementary number theory to science?
+92293 Gravity from energy
+73114 Space expanding, or light slowing down?
+46933 What's the most efficient way to study physics?
+75876 Effects of magnetic fields on our bodies
+32122 Phase shift of 180 degrees on reflection from optically denser medium
+32120 Why do we still not have an exact definition for a kilogram?
+98000 Does the time for communication between moving objects solely account for each object to perceive the other object's clock to more slowly tick?
+3799 Why is cold fusion considered bogus?
+3795 Why are snowflakes symmetrical?
+86528 How functions become operators in quantum mechanics?
+106065 Relativity's effects on centripetal motion
+3244 Vortex in liquid collects particles in center
+72983 Optics of a rotated spectacle lens
+132058 Speed greater than light in circular motion
+6533 What allows the modified Urca process to work at lower density than direct Urca in neutron star cooling?
+18473 Where do electrons get their ever-lasting circulating energy?
+31387 How do you find spin of a particle from experimental data?
+131505 Universal speed limit
+19632 How much electric charge do electromagnetic waves carry?
+101404 Positive Mass Theorem
+48469 Intuitive meaning of Hilbert Space formalism
+44586 How does an inflationary universe solve the Flatness Problem, Horizon Problem and Monopole Problem?
+122564 Alternating Current Inquires
+111172 What is the difference between light and visible light?
+126691 What would the properties of a particle be that would allow light to orbit it?
+110395 upwind vehicle exceeding the wind speed
+8081 What happens to chemical compunds that include radioactive nuclei, when those decay?
+82599 quantum mechanics and canonical conjugate
+16305 If Earth Were Filled with a Compressible Fluid and Spun Really Fast, What Hollow Would Form?
+63424 Energy needed to raise energy level of an atom?
+90715 How do gravitons and curved space time work together?
+68684 does matter radiate energy?
+91392 Is temperature of a single molecule defined?
+109332 Calculate analytically the time until two spheres meet due to gravitation
+59438 How do you calculate power at the focal point of a mirror?
+55190 Flushing water-Is it related to Coriolis force?
+55195 Calculating a 2D collision between two perfectly circular disks
+50015 confusion on quantum field theory
+61455 How can a single slit diffraction produce an interference pattern?
+93530 Why is pressure always non directional?
+104144 Why is the camera not the culprit?
+74087 Resource for nonphysicists about QM/GR incompatibility
+74333 Can the laws of classical mechanics be derived from quantum mechanics?
+71309 Is there an EMF in a conductor moving at constant speed across the uniform magnetic field
+105239 How does a black hole slow time?
+37702 How do you change Planck's law from frequency to wavelength?
+41424 What does "the ${\bf N}$ of a group" mean?
+743 Suggested reading for renormalization (not only in QFT)
+33822 Variational Calculus or Tensor Calculus?
+18028 How can I modify the bullet trajectory based on the ballistic coefficient?
+30732 How does the Higgs Boson gain mass itself?
+47284 Rolling (without slipping) ball on a moving surface 2
+47135 Displacement of a Rock Thrown Overboard
+47136 Cubic symmetry and a stiffness tensor
+63626 How can I understand a Vortex Tube and its efficiency?
+21051 Why are continuum fluid mechanics accurate when constituents are discrete objects of finite size?
+54480 Suggestions for a physics oriented book on Variational Calculus
+1915 What does it mean that the universe is "infinite"?
+10496 What can the D-Wave quantum computer do?
+885 Why does calculus of variations work?
+112820 Archimedes' principle: innacurate terminology?
+122413 Help explain how direction change relates to acceleration
+29477 Richtmyer Meshkov instability in MHD
+129030 Is gravitational acceleration less affected by relativistic mass increase?
+8784 "Troll physics": Buoyancy for infinite power
+66476 What is the Earth truly rotating about/revolving around?
+22566 Question Based On Units And Measurements Involving Lengths
+110077 Gauge Higgs Unification
+104301 Gravity propagation speed
+51213 How would it be to look at the sky if the earth were near the edge of the universe?
+117223 Photon speed going from $0$ to $c$ initially?
+107546 Why doesn't our body gets crushed due to the atmospheric pressure?
+113830 Two explanations of non-zero atomic radius
+102076 Capacitance of bodies with different charge
+9049 Why doesn't the Moon fall upon Earth?
+78095 As the earth rotates around itself, does this have any effect on the dynamics of flights?
+9045 Why do they store gold bars with the narrow side down?
+68233 Electricity directly from heating a material
+68234 Experimental study of the Photoelectric effect
+30134 Intrinsic structure of electron
+103670 Do black holes exist?
+92051 How can momentum but not energy be conserved in an inelastic collision?
+22046 Books for Condensed Matter Physics
+41386 Energy can't be created or destoryed?
+133703 Relating Quantum Mechanics to Classic Electromagnetism
+133707 How can you calculate how fast a spinning ring/cylinder will accelerate a mass via gravitomagnetism?
+123210 Renormalization of diagrams in QFT
+10130 Physics breakthroughs in the last two decades
+7633 Direction of Magnetic force from a current running through a coil of wire
+103448 Red color has largest wavelenght and violet minimum (in the range of visible light). then why does violet light appears reddish? RED + BLUE = VIOLET
+73813 Wave theory limit of geometric optics?
+69855 Planck length implies lattice structure of space?
+38313 What's the difference between electron movement and charge movement in electricity?
+64647 Why doesn't a bus blow due to internal pressure?
+100056 Why do electrons and protons attract each other?
+48196 Good Books on Gauge Theory
+13020 Books that every layman should read
+66538 Time dilation at a black hole
+27641 Entanglement in time
+129206 Why do physical bodies in the universe follow the law of physics ( or any rule/pattern ) ?
+61086 How do we know that light is massless?
+52845 Nuclear structure
+99865 What are direction ratios?
+104513 Derivation of Euler's equations for rigid body rotation
+39428 Is this a good explanation of the Higgs mechanism?
+112799 Why can't light waves bend?
+130985 Can you run away from your shadow?
+130676 What do we mean by electromagnetic charge?
+135007 Constants of infinity
+116281 Dark Energy / Accelerating universe: naive question
+121536 Is it possible to have a perfectly black material?
+45108 Half-Life Question
+45105 Does Fire Conduct Electricity? Why?
+36146 atomic friction
+88545 Spring constant
+126619 Why do we say that light travels at a speed?
+126610 Why does Newton's Third Law not preclude any motion at all?
+12557 Is apparent horizon curvature lesser due to refraction of light in the atmosphere?
+12559 What conservation law corresponds to Lorentz boosts?
+10895 What is the energy conversion efficiency of a computation device like a modern CPU?
+81536 electric field inside a conductor?
+5851 When lasers are used to cool atoms or ions, etc where does the heat go?
+52391 Is the Pauli exclusion principle as Brian Cox described it?
+52396 Why not an Electric Theory of Everything?
+17034 How can we be sure that nature isn't "faking" quantum statistics?
+53519 Physics textbook for mathematicians
+111236 About Hilbert and Physics
+110543 Open-source up-to-date cosmological datasets
+3521 Has the black hole information loss paradox been settled?
+70651 Why is the Ampere a base unit and not the Coulomb?
+106652 Does the Sun produce audible sound?
+102760 Man on a rope task
+109982 How is a vacuum able to propagate light?
+133820 If sound travels through matter what medium does light travel through?
+133829 Doppler Shift when Light Travels Through Two Different Mediums
+4289 Is Gravity an entropic force after all?
+52487 Photometer: measured Irradiance L converted to photon rate
+122941 Why must a singularity form inside a black hole?
+6197 Do two beams of light attract each other in general theory of relativity?
+48548 Apparent paradox in equation of continuity
+10362 How does non-commutativity lead to uncertainty?
+59635 Magnifying Glass-How does it work?
+108569 Does the unit of Inertia include radians?
+1775 Why is there no absolute maximum temperature?
+8701 Is microcausality *necessary* for no-signaling?
+8709 Does mass affect speed of orbit at a certain distance?
+111784 Is there any relationship between gauge field and spin connection?
+51838 Why do tuning forks have two prongs?
+65688 Group Theory in General Relativity
+60476 Exact Solutions to the Navier-Stokes Equations
+113527 Is the Lorentz force conservative?
+25883 Why is there still radiation left from the Big Bang now?
+34500 How can black holes have gravity?
+66220 Proof of Spin-statistics theorem
+105183 Question about two masses connected by a spring
+31950 Higgs boson and other properties of particles.
+56657 How is the equation of motion on an ellipse derived?
+4617 Why two objects get charged by rubbing?
+23930 What happens to the energy when waves perfectly cancel each other?
+147 What are some useful ways to imagine the concept of spin as it relates to subatomic particles?
+128389 Physical reason why (hot) objects glow?
+70597 What is the required prerequisite knowledge of QM, for starting QFT?
+131758 Visualisation of formation of electromagnetic waves
+98758 Does a black hole singularity last essentially no intrinsic time?
+38399 What is a good non-technical introduction to theories of everything?
+38397 How to make something charged using electricity?
+6400 Are tidal power plants slowing down Earth's rotation?
+82417 Is the trajectory of the Moon around the Earth stable?
+16755 Why is energy in a wave proportional to amplitude squared
+12046 Colors from a computer vs. colors from visible spectrum of sunlight
+88077 Is the Higgs particle the final one predicted by the Standard Model?
+409 What methods can astronomers use to find a black hole?
+95864 What is the entropy of the universe today?
+61000 Phase shift of resonance
+25378 How vacuous is intergalactic space?
+98157 Speed and Velocity Worksheet
+16415 Conveyor scales modeling
+9495 What is the fastest process or shortest time in nature?
+52155 Why lagrangian is negative number?
+24131 What is the support for the suggestion that reality is a computer simulation?
+108661 Movement with non-constant acceleration
+30922 What's the difference between Fermi Energy and Fermi Level?
+31039 What is gravitational speed for a black hole?
+101150 Ascertain the height an object has fallen from given force exerted and mass
+72549 Where does mass come from?
+131364 Why can microwave (in microwave oven) heat the food but wifi can't?
+70147 Why do cosmic bodies revolve?
+128196 Can statistical mechanics explain the second law completely?
+131352 Why does a motor draw more current stopped or under load?
+86597 QFT as a rigorous mathematical theory
+89914 Proof of conservation of information
+14760 What is the variable plotted on the y-axis on these Higgs exclusion graphs?
+5587 A pendulum clock problem
+95460 Why do springs have helical shapes? Why do we not use a cylindrical rod as a spring?
+9122 What is the difference between implicit and explicit time dependence e.g. $\frac{\partial \rho}{\partial t}$ and $\frac{d \rho} {dt}$?
+57317 Multiple measurements of the same quantity - combining uncertainties
+20303 Negative chemical potential
+1317 Which is easier, pushing or pulling?
+27078 Choice and identification of vacuums in AdS/CFT
+26307 The collision of Phobos
+75352 Atoms: boson or fermion?
+11188 Can a particle be *physically* observed inside a quantum barrier?
+33258 What is invisible to x-rays?
+41494 Physical meaning of force times area
+129654 Antiparticles as "holes" of the quantum fields?
+28929 How to find orbital radius of star in a binary system using redshift and orbital period data?
+81787 Identification of particles and anti-particles
+944 Noticing that Newtonian gravity and electrostatics are equivalent, is there also a relationship between the general relativity and electrodynamics?
+90034 How are the definitions of a coherent state equivalent?
+29200 What experiments prove the greenhouse effect?
+29208 When would the proposed black hole at the centre of Milky Way gulp in our solar system?
+21771 Explanation about black color, and hence color
+67712 reflection at speed of light when both mirror and viewer is travelling at the speed of light
+9898 The Density of Clouds
+55965 Understanding on quantum entanglement
+2066 Why does adding solutes to pure water lower the the specific heat?
+71649 Evidence that the Solar System is expanding like the Universe?
+15640 What are "electron holes" in semiconductors?
+101398 electric charge is a intrinsic property how is there a prpoer way to explain electric charge?
+46743 Are galactic stars spiraling inwards?
+10139 Determining a radio signal's range
+123803 Different factors of $4\pi$ and $\epsilon_0$ in Poisson equation
+29956 Book covering Topology required for physics and applications
+14255 Experimental evidence for parallel universes
+19370 What would an observer see if he/she flew toward a clock at relativistic speeds?
+69778 Accelerating electrons via microwaves
+116230 Why fundamentally does classical mechanics lead to second order dynamics?
+63590 Integrating radial free fall in Newtonian gravity
+68911 Why do current and electrons flow in opposite directions?
+61699 Why are alpha particles such a prominent form of radiation and not other types of nucleon arrangement?
+77373 Proof of conservation of energy?
+401 What software programs are used to draw physics diagrams, and what are their relative merits?
+73275 Why stars twinkle but planets don't?
+73279 Gravitational slingshot of light using a black hole/massive object
+23879 Why do non-Newtonian fluids go hard when having a sudden force exerted on them?
+25437 Why do we always see the same side of the Moon?
+57312 What will be the shape of liquid if there is no gravitational force
+36498 How does the Hubble Redshift work?
+86517 Are there anti entropic agents
+542 Chance of objects going against greater entropy?
+52306 Calculation of torque for motor used in 4 wheel robot
+15055 What is the cause of the normal force?
+95411 Photoelectric Effect, Why can't two quanta interact with an electron at the same time?
+39161 What happens to an embedded magnetic field when a black hole is formed from rotating charged dust?
+128702 Woodwind instruments overtones
+48435 Quick introduction to electromagnetism / Maxwell's equations
+95361 Can we calculate the frame dragging force of the Earth?
+95366 Why does Stephen Hawking say black holes don't exist?
+123610 Current in a strip - Scalar or vector
+129991 Is "now" the bounding edge of the universe in the time dimension?
+25145 Observing lunar lander and footprints on the moon?
+113982 Why $\vec F=m\vec a$ instead of $\vec F=m\vec v$?
+78741 What state is fire? Solid, Liquid or Gas or Plasma?
+23487 3d holograms - How are they created?
+24596 Is the converse of Noether's first theorem true: Every conservation law has a symmetry?
+38961 Why there is no negative temperature
+38963 Study Quantum Physics
+31827 How does Annihilation work?
+122635 How can ice cubes contain gas bubbles?
+101291 Density operators in a Hilbert Space
+91534 Lecture Notes to Learn Quantum Field Theory
+4506 Homework about spinning top
+130116 How do photons know they can or can't excite electrons?
+37730 Conservation of Energy in a magnet
+47105 Amplitude of an electromagnetic wave containing a single photon
+47104 What evidence is there for the Big Bang Theory?
+16596 About the Ether Theory acceptance
+53168 Does photon have size measurement because of its particle nature
+23753 Information conservation during quantum measurement
+9371 Why would Antimatter behave differently via Gravity?
+13220 Physics needed to build a top down billiards game
+1984 Why does holding something up cost energy while no work is being done?
+1217 What's the difference between inclusive and exclusive decays?
+97812 Is the system of equations of electrostatics underdetermined or overdetermined?
+129593 minimum possible absolute temperature in the universe?
+78965 General Relativity and Time Dilation
+102680 How can you use magnets to rotate a shaft, which in turn powers a generator?
+67186 Why do Lagrangians and Hamiltonians give the equations of motion?
+67188 What is the "Event Horizon" of a black hole
+101649 What is the physical significane of Complex Time Evolution in EM Waves?
+6384 Why does dilation invariance often imply proper conformal invariance?
+75756 On the atomic level how do permanent magnets work?
+71126 Why does the refractive index depend on wavelength?
+8248 Did the researchers at Fermilab find a fifth force?
+126769 Which Optics textbooks are good?
+126766 What point of application of force ensures more acceleration in a rod?
+34689 What were the intention/conclusions for Michelson-Morley experiment?
+56983 Electric field outside nonconducting sphere
+89360 Simple pendulum and perpetual motion
+67616 Spin - where does it come from?
+2974 If the earth left the solar system for interstellar space. How long would it take for atmosphere to freeze
+127461 Could space itself be made out of particles?
+129715 Quantum Mechanics and Direction of time
+111382 Is light electromagnetic waves or quantumn particle waves?
+123267 Is there an upper limit to a rocket's size/payload?
+57390 Validity of naively computing the de Broglie wavelength of a macroscopic object
+33621 How do electrons know which path to take in a circuit?
+76100 Disk spinning at the speed of light
+132602 The relationship between angular and linear momentum
+53708 How can I understand work conceptually?
+133564 Why photon has a wave nature?
+87140 In an absence of gravity, does time flow faster or slower than on Earth?
+12560 Software for simulating 3D Newtonian dynamics of simple geometric objects (with force fields)
+1888 Balloons and lifting gases
+60763 Can a dot of light travel faster than the speed of light?
+77525 Is spacetime all that exists?
+28174 Are gravitomagnetic monopoles hypothesized?
+55143 What would the effect be of a small black hole colliding with the earth?
+51711 Why shouldn't the uncertainty principle be interpreted as an observer effect?
+32699 How to explain $E=mc^2$ mass defect in fission/fusion
+104196 The sound when boiling water
+75385 What is Mathematical formulation of entropic Gravitational force?
+29794 Why are coordinates and velocities sufficient to completely determine the state and determine the subsequent motion of a mechanical system?
+15263 Neutrino unaffected by gravity
+43406 What constitutes an observation/measurement in QM?
+4704 Black hole analog experiment?
+13557 History of interpretation of Newton's first law
+87686 Will the moon really escape the Earth?
+46639 Non-Degeneracy of Eigenvalues of Number Operator for Simple Harmonic Oscillator
+7276 What combinations of realism, non-locality, and contextuality are ruled out in quantum theory?
+54431 Can we make images of single atoms?
+54437 Learning more about String theory
+121717 Are gravitational waves transverse or longitudinal waves, or do they have unique/unknown properties?
+56355 Antimatter in the universe
+126296 What is the current state of research about the Hayden-Preskill circuit?
+114483 Smolin on Cosmological selection and neutron stars
+9526 Helicopter in an Elevator
+90646 What is the relation between electromagnetic wave and photon?
+2684 How do I calculate the (apparent) gravitational pull with General Relativity?
+2687 Modern references for continuum mechanics
+113722 Can nuclear transmutation be observed in real time?
+71823 Is there a proof of existence of time?
+68289 Is there anything smaller than a quark?
+4731 Significance of the second focus in elliptical orbits
+77282 Gauss's (Divergence) theorem in Classical Electrodynamics
+22010 The square in the Newton's law of universal gravitation is really a square?
+98459 The Achilles Paradox
+104019 Special Relativity Textbooks Request
+36303 Introduction to AdS/CFT
+87376 Good and simple reference for studying about ADM mass
+83866 Bathroom photons from the edge at the universe
+7668 Fundamental question about dimensional analysis
+86424 How did Newton find the relationship between force, mass and acceleration?
+11194 Wind generators - why so few blades?
+5613 Dark matter and dark energy references
+5615 What happens when a black hole and an "anti-black-hole" collide?
+93771 Understanding field representation of force
+252 The Many Body problem
+16725 Intuitively, what is the source term of the Einstein field equation?
+100037 Do ideal gases at zero Kelvin have potential energy?
+14865 What do physicists mean when they say "speed of light"?
+94567 Statistical Entropy and Information theory
+92245 Electromagnet emitting light
+61031 If photons can be absorbed by electrons, wouldn't that mean light has a charge?
+52837 When do I apply Significant figures in physics calculations?
+57643 Dark energy and dark matter
+2721 What is the symmetry which is responsible for preservation/conservation of electrical charges?
+37981 Is there a way to save electricity from lightning?
+19816 What is the meaning of speed of light $c$ in $E=mc^2$?
+30353 Supersymmetry in Quantum Field Theory
+91181 Angular Momentum of a rigid, extended object
+66044 Why is light produced when an underwater bubble is collapsed with a sound wave?
+130936 Why do the electron in Bohr's principal quantum levels or ground state do not emit radiation?
+101727 How does displacement current come about?
+101725 The nature of the gravity force: Is it attractive or repulsive between positive and negative mass?
+130686 Why magnetic field generates around current carrying wire?
+72510 Pendulum period of different masses
+128161 Why does light travel at the same speed when measured by a moving observer?
+44974 Calculating restorative force with Hooke's Law
+28895 Why is the sky not purple?
+16020 Air flow coming out of a fan feels much stronger than air flow coming in. Why?
+121911 How to find equation of motion for this trajectory? - object leaves curved ramp at a given velocity
+118988 If lead's electron configuration ends with 6p$^2$, shouldn't it be paramagnetic?
+20333 Speed of a fly inside a car
+129350 Does the order of variables matter for a quantum Lagrangian in the path integral formula for quantum mechanics?
+67880 Why do metal objects in microwaves spark?
+24827 If space is being doubled, how fast is it doubling?
+27847 Why is there a $\frac 1 2$ in $\frac 1 2 mv^2$?
+68512 Evidence for expansion of space
+12169 Detection of the Electric Charge of a Black Hole
+87880 Isn't Dark Matter just an Indication that Relativity breaks down when describing large masses?
+130767 Beginner question: timelessness of massless particles
+6271 Laws and theories
+80872 Newtons Cradle, Collision Theory
+17944 How does the Higgs mechanism work?
+14362 Help Me Gain an Intuitive Understanding of Lorentz Contraction
+110736 About the speed of light and gravity
+65584 What happens when non-equal voltages are put in parallel?
+10470 How does water evaporate if it doesn't boil?
+53663 Learning roadmap for solid state physics
+112629 Amateur's question on Black Holes
+22803 Is acceleration relative?
+72788 Uncertainty and wave-trains
+60899 The paradoxical nature of Hawking radiation
+63811 Is the universe fundamentally deterministic?
+36167 Does juggling balls reduce the total weight of the juggler and balls?
+127940 Jump from a falling object
+13349 Online lecture videos on QCD?
+44193 What would happen to a person that was inside the Large Hadron Collider when it is turned on?
+80932 Are free electrons in a metal really free
+335 Is electricity instantaneous?
+96562 interaction of mathematical structures (rephrased)
+9449 Video lectures on graduate level Classical Electrodynamics
+105833 Is rigorous functional analysis useful for theoretical physics?
+102477 Physical interpretation of Fermi golden rule?
+71901 Why aren't superconductors shiny?
+113749 Is there experimental evidence that massless particles such as photons attract massive objects?
+68940 Virtual photons, what makes them virtual?
+78500 Linearized equations
+78508 Why does Quantum Field Theory use Lagrangians rather than Hamiltonains?
+92454 Guinier regime for form factor
+28647 Why is matter drawn into a black hole condensed into a single point within the singularity?
+77741 Why don't photons crash into each other occasionally? Or do they?
+83070 What's the shear rate in a turbulent flow?
+38246 Formulas for compressibility of solids (physics)
+31326 Is a hard drive heavier when it is full?
+41937 Non-linear dynamics of classical hydrogen atom
+118900 Question about Hubble's Law - expansion vs receding velocity
+103641 Very specific type of GR paper hunt
+55760 What are the implications if Supersting theory is discredited?
+52008 Does light accelerate or slow down during reflection?
+25110 Why are orbits elliptical?
+57181 What are the potential technological advances that the discovery of the Higgs boson may unlock?
+53356 Reference on Chern-Simons theory
+68599 What sets a "Law" apart from a "Rule" or a "Principle"?
+3833 Age of the Earth and the star that preceded the Sun
+109060 Is cosmic background radiation absolute
+6147 Time Dilation - How does it know which Frame of Reference to age slower?
+7063 What actually happens when an anti-matter projectile collides with matter?
+69679 Can solar furnace achieve higher temperature than sun surface?
+60336 Facts About Quarks Electric Charge
+69350 Drag force at high speeds
+80777 Shifting the energy reference level
+9340 Does the renormalization group apply to string theory?
+68757 Why do neutrinos propagate in a mass eigenstate?
+44351 Why are we not using thorium for energy?
+62222 Cancelling special & general relativistic effects
+35139 What is the possibility of a railgun assisted orbital launch?
+13851 Can you split a photon?
+25637 How to correct flares and sharply focus on my telescope when viewing planets.
+65339 How & Why does accelerating charges radiate electromagnetic radiation?
+104423 Calculating impact velocity and time with non-uniform acceleration
+30198 How to bend light?
+107614 Why "Dark Energy" is called energy instead of force?
+132440 If atoms have specific energy levels, why do opaque solids absorb all visible light, not just some?
+132449 Why do we fall down when the bicycle slows down?
+135145 Change in momentum
+45247 Trying to understand the tension in a spring with two weights attached
+70200 Why electrons can't radiate in their atoms' orbits?
+123857 Mathematical calculation of probability of existence of planet similar to earth
+46180 Can a deformable object "swim" in curved space-time?
+120191 How much wind does it take to tip a sign over?
+60699 High Frequency Active Auroral Research Program (HAARP) And Earthquake Myth or Reality?
+122841 Leg Press & Actual Lifted Weight
+24359 Why do objects follow geodesics in spacetime?
+61643 Does more rain strike a vehicle while moving or while stopped (or neither)?
+110401 Number of planks required to stop the bullet
+55698 What is the role of center-tapping in a full wave rectifier?
+98714 How are symmetries precisely defined?
+119083 Exeeding the speed of light by adding velocities
+14044 Can superconducting magnets fly (or repel the earth's core)?
+3264 Thermal radiation spectrum of a blackbody
+77867 Extra dimensions and the big bang
+31869 Designing a plausible faster than light drive: the Space Skip Drive
+113523 Sign convention for mirror and lens formulas
+70439 How occurs the enantiomorph of the mirror?
+1051 conversion of information to energy
+10870 Calculating position in space assuming general relativity
+61845 Some basic questions about electric field & nucleus
+102222 How does a half-life work?
+113660 Infinities in Newtons law of gravity (for point particles)
+62711 What happens to things when things get crushed in a blackhole
+661 Is it possible to blur an image in such way that a person with sight problems could see it sharp?
+91797 Why would an electron in an orbit be accelerating continuously and would thus radiate away its energy and fall into the nucleus in a classical model?
+27326 Uniqueness of eigenvector representation in a complete set of compatible observables
+75002 Travel duration from Earth to a star at 9.8 m/s² acceleration
+71589 Is it possible for a planet to be made entirely of water (even it's core)?
+39253 Is it possible for one black hole to pull an object out of another black hole?
+119935 Maximum helicopter height
+58122 Why work to change velocity from 0 to 20 km/h is less then from 20 to 40?
+123743 Problem about entropy
+95053 Radiation– white vs black house, hot or cool?
+22542 Measuring extra-dimensions
+117205 How does the evolution of a solar system not break the second law of thermodynamics?
+107563 What's the proof that the polarization occur s to the electric field of the light?
+107561 Dependence of Force as a function of Distance?
+105875 Blackbody radiation and Spectral Lines
+83101 Expansion of a function
+44882 What are good books for graduates/undergraduates in Astrophysics?
+9708 Is fire matter or energy?
+111530 Would atmosphere of Jupiter blow up if I launched a atomic bomb there?
+45545 Relativistic Hamiltonian Formulations
+97886 Is powered delivered to an Incandescent light bulb changing with time?
+36440 What causes an electric shock - Current or Voltage?
+114887 Hubble time and its derivation?
+9 Hamilton's Principle
+87976 Direction of friction when a car turns
+134378 Do we weigh less in the morning?
+134370 Expanding universe space through matter or matter through space?
+134081 Why graviton is spin 2 instead of spin 1?
+70123 Can a submerged place in the sea have huge air pockets?
+71292 Why does a cork float to the side of a glass?
+41573 From how deep into space can a human "skydive" back to earth?
+119441 Time dilation at the Big Bang
+43322 Intuition for multiple temporal dimensions
+11299 Do spacelike singularities really exist in quantum gravity?
+56851 Noether's current expression in Peskin and Schroeder
+99535 how does the temperature of a gas increase when compressed by an external agent during sound production?
+95193 Countable Matrix Representation
+24540 Why do Calabi-Yau manifolds crop up in string theory, and what their most useful and suggestive form?
+22252 Resistor circuit that isn't parallel or series
+74020 Why did the Earth cool down?
+71503 What causes a blackbody radiation curve to be continuous?
+88537 Steps involved in photon emission
+47224 What does a sphere moving close to the speed of light look like?
+134127 The Equivalence Principle approaching the speed of light
+94901 Contracting Indices
+92990 Finding the Schwarzchild radius of a star of solar mass 30
+16206 Why you need a graviton when you have the higgs boson?
+130509 Angular Momentum Conservation Definition
+90635 Freezing water in a closed container
+106484 If you shoot a light beam behind the event horizon of a black hole, what happens to the light?
+79568 Angular Momentum Conservation in Gravitational Interaction
+23007 How much oxygen would be consumed on a 1 cm squared surface which is on fire?
+135382 Is $V= V_1 + V_2$? horrible question but im confused
+74788 Can someone give an intuitive way of understanding why Gauss's law holds?
+105316 Why color of dress changes when water falls?
+113267 Is temperature discrete
+107023 Sum of independent errors
+73945 Work done by magnetic field
+135377 A question on quantum computing?
+2289 Why does Guillotine have of 45 degreed blade rather than the one parallel to the ground?
+2281 Maximum theoretical data density
+51995 Speed of light in a given direction based on frame of reference
+51990 do quantum fields exist in superposition?
+117120 Prerequisites for Griffiths electrodynamics
+61936 Why does the Boltzmann factor $e^{-E/kT}$ seem to imply that lower energies are more likely?
+101443 Does gravity have any effect on sound waves?
+21301 What longest time ever was achieved at holding light in a closed volume?
+56966 Why do fields decrease with distance?
+22960 Flying a toy helicopter inside an accelerating train
+5839 Does magnetic propagation follow the speed of light?
+106543 Why earth looks always flat when it is round
+91286 Diffraction by a lens
+30909 Simulator for electrostatics
+92739 How does the sum of the series “1 + 2 + 3 + 4 + 5 + 6…” to infinity = “-1/12”?
+30597 Black holes and positive/negative-energy particles
+7112 Why do people still talk about bohmian mechanics/hidden variables
+18793 Why do the planets' orbital distances fall on an exponential curve?
+13917 Reflection At Speed of Light
+19043 Is one way glass possible?
+28527 Two particles interacting by a inverse-square-law force, find their positions in function of time
+1080 Why isn't Higgs coupling considered a fifth fundamental force?
+29523 Pressure of sealed in liquid nitrogen
+66658 Atmospheric pressure experiment using a cup with a fluid to hold a glass plate
+55719 Schrodinger's cat experiment
+8347 Trapping a lightray
+9663 Is it pions or gluons that mediate the strong force between nucleons?
+41741 Linear motion with variable acceleration
+119103 How does heat actually stay kept in the carbon molecules in the atmosphere?
+81414 Why are all force particles bosons?
+11396 Can one do the maths of physics without using $\sqrt{-1}$?
+52273 Is it possible for a physical object to have a irrational length?
+7877 Pendulum with water dripping out
+1982 Is colour, as represented using primary colours, accurate only to humans?
+23625 How to deduce the theorem of addition of velocities?
+27753 Baryon asymmetry
+92301 What color would you see if you place 2 mirrors in opposit when one is a one way mirror
+105398 What will change if we have another Earth in the space near Earth?
+2041 How are classical optics phenomena explained in QED (Snell's law)?
+106287 Is the universe flat?
+134987 Basic understanding of stress tensors in a fluid
+102627 Second Rank Tensors
+71620 On a hot day, when it's cooler outside than in; is it better to put a fan in an open window pointing inwards or outwards?
+100572 Different formulas for calculating power
+19417 Path integral formulation of quantum mechanics
+101624 Can someone be too late for being a great physicist?
+135115 Has NASA confirmed that Roger Shawyer's EmDrive thruster works?
+10154 Does the Standard model allow for radioactive decay prediction?
+80966 Why current through all the resistors in series is considered to be same?
+83735 Why do we seek to preserve gauge symmetries after quantization?
+88606 Within the context of string theory, is matter nothing more than a vibration on a membrane of space-time?
+11588 Work of Marie Curie?
+21384 How can I figure out how many kWh's are in a battery using the mAh's and voltage.
+102423 Rolling disk in inclined plane and flat plane?
+95756 Why does a floating balloon in an accelerated train moves forward but the pendulum moves backward?
+83701 What are the Time Operators in Quantum Mechanics?
+28720 How to get Planck length
+73299 General Relativity and the effect of mass on time
+57333 Is quantum mechanics similar newtons laws of gravity? In a way
+134559 Don't Inertial forces obey Newton's third law?
+106078 How does a simple weighing balance actually work?
+70747 Can inertial mass affect gravity of the object?
+18170 Measurement of Tangential Momentum Accomodation?
+103160 It's commonly said that the existence of antiparticles "saves causality". How?
+132043 Why doesn't the light from galaxies appear stretched?
+87725 Triboluminescence, how does it work?
+31395 What happens to matter in a standard model with zero Higgs VEV?
+135096 How a fan moves air?
+128891 Airplane on a treadmill
+20675 What does Peter Parkers formula represent?
+91972 Stationary action with maximized action
+1008 Why isn't dark matter just matter?
+11014 Will the night sky eventually be bright?
+92313 The definition of Lagrangian
+57137 How soon that a force affect another object?
+69657 How could vacuum energy cause the expansion of the universe?
+56888 rephrasing my question on QFT and path intergrals?
+13388 At what speed does our universe expand?
+54656 When can one write $a=v \cdot dv/dx$?
+73825 The future of supersymmetry
+29642 In a neutron star - what force keeps the neutrons from getting closer and closer?
+72447 Why this perpetuum mobile can't be possible?
+51776 How are current and voltage out of phase in capacitive circuit?
+130171 At what speed will objects hit a singularity?
+18691 Topics in particle cosmology
+47291 How could the relative zero gravity of the International Space Station be canceled?
+47128 exponential potential $ \exp(|x|) $
+39263 Science behind the singing wine glass
+12664 Proving that interval preserving transformations are linear
+111696 Hydrostatic pressure at the center of a water planet
+8420 Strongest force in nature
+93130 Is it wasteful to use a heating element, instead of doing useful work?
+55458 Why is the Lagrangian quadratic in $\dot{q}$?
+68198 Why can't some light ever reach earth?
+68223 The secret behind the spinning, asymmetrically weighted, 2D disk-shaped top?
+43919 Dark Energy saving the world
+89335 Self-contained book about complex systems and nonlinear dynamics
+69281 The interaction picture doesn't exist?
+99338 Transportation using disintegration
+49837 How do stars look like from space?
+46824 A thought experiment with Heisenberg's Uncertainty Principle
+79136 Buzzing/Vibration in body under power lines
+79685 If the source of sound is vibration, why can't we "hear" a object whose molecules are vibrating?
+73162 Should we necessarily express the dimensions of a physical quantity within square brackets?
+34834 An example of non-Hamiltonian systems
+107746 Spinning of the Earth
+6582 What sort of jobs do physics graduates with B.Sc/M.Sc get?
+130999 Why do we observe opposite motion of trees (nearer) and trees (distant) when seen from a moving frame?
+70463 Exchange particles-real or just mathetical constructs?
+89988 Can we actually prove with 100% accuracy that there is more than 3 dimensions plus time (t,x,y,z)?
+7479 A Basic Question about Gravity, Inertia or Momentum or something along those lines
+110615 What does 1/k represent regarding Newtons Law of Cooling?
+19548 Does mass affects accelleration of an object in a sloapy movement?
+46327 Flames with no gravity?
+46324 To which extent is general relativity a gauge theory?
+43665 Logical requirement of newton's third law
+34366 Time taken for object in space to fall to earth
+34364 Why does a cuboid spin stably around two axes but not the third?
+73393 A question about the higher-order Weyl variation for the geodesic distance
+103110 A black torch to darken everything
+87260 Time Slowing Down
+102719 What is the formula for determining time dilation (as the object in motion)?
+109992 Heat energy in special theory of relativity
+128875 How to find the potential energy?
+77020 Are Lorentz force and maxwell's equations independent?
+96081 Is the second law of thermodynamics a fundamental law, or does it emerge from other laws?
+35660 Is there a difference between a postulate and a principle in physics?
+73051 Do cosmologically redshifted photons violate energy conservation?
+98437 Why absence of electron is called hole?
+156 How are the northern lights produced?
+83845 Can air bubbles sink at extreme depths?
+15855 How does quantum trapping with diamagnets work?
+89002 Why treat complex scalar field and its complex conjugate as two different fields?
+33507 Quantum mechanic newbie: why complex amplitudes, why Hilbert space?
+21654 How to find the value of the parameter $a$ in this transfer function?
+90469 Do all massless particles (e.g. photon, graviton, gluon) necessarily have the same speed $c$?
+28093 Relation between water flow and pressure
+28094 Time for two objects to gravitationally attract each other
+104237 Why do the planets orbit the Sun?
+112270 Thermo-Emf variation with temperature
+68302 Best way to chill a cup of coffee with cold water and 5 minutes
+3009 How exactly does curved space-time describe the force of gravity?
+31029 How can a wooden spoon be used to prevent water from over boiling?
+72535 Are there any naturally occurring perfect circles?
+132988 Energy & Mass of a Photon
+7905 Massless charged particles
+21194 Problem on nuclear physics radioactivity
+126694 Is the Speed of Light an universal spacetime constant, the velocity of electromagnetic waves, or of photons?
+27041 Linearizing Quantum Operators
+32096 What exactly is a kilogram-meter?
+22404 Will the hole on a metal disc expand or contract upon heating?
+102791 Quarks are now considered to be fundamentals, but so were atoms some time ago. So the way we see is only limited by our technological advances?
+104302 Size of Universe after inflation
+74517 Does a 27 hp engine output the same amount of energy as lifting a 1 ton stone block almost 3 meters per second?
+10311 Does it exist a free good molecule / atom simulation software?
+63278 What counts as "observation" in Schrödinger's Cat, and why are superpositions possible?
+41717 How is it possible to come to a conclusion that Universe is a result of the Big Bang while we aren't able to observe the entire Universe?
+7732 If the Sun were to suddenly become a black hole of the same mass, what would the orbital periods of the planets be?
+52515 What is a natural movement of a ball on a upward curve (the two arrow lines pointing upward) given no external force?
+82418 Analytic solution for angle of minimum deviation?
+64253 Distance away from earth to see it as a full disk
+85975 How much extra distance to an event horizon?
+77143 What does it mean for a QFT to not be well-defined?
+357 Home experiments to derive the speed of light?
+2254 When water climbs up a piece of paper, where is the energy coming from?
+9468 In what order should the subjects be studied in order to get to String Theory
+35781 Why are atoms particles?
+127408 Features used in quantum mechanics but not used in classical mechanics
+18148 Current against the inverse of resistance graph, $I = V/R +c$
+39170 Good Magnetic Simulation Software?
+12717 Charging 12V 150Ah battery
+111866 Intuitive meaning of Dot Product
+62474 Does friction depend on the area between bodies thats in contact?
+116921 Can there be Electron and/or Proton Stars?
+126921 Magnet motor free energy generator
+104468 How does atmospheric pressure work?
+52024 Is there any case in physics where the equations of motion depend on high time derivatives of the position?
+105735 Rutherfords alpha scattering conclutions?
+78732 Chemistry from a physical perspective
+107113 Calculate the average temperature needed for hydrogen fusion reaction
+95705 Why does ice form on bridges even if the temperature is above freezing?
+132788 What moves an object? Momentum or Kinetic Energy?
+43232 Force applied off center on an object
+96335 Can light be launched outwards from an event horizon?
+43491 Is the geometric formulation of Hamiltonian mechanics really necessary?
+19802 Has the concept of non-integer $(n+m)$-dimensional spacetime ever been investigated by theoretical physicists?
+1957 What is the difference between a white object and a mirror?
+90044 Halliday resnick physics book
+59815 Is a heavier skier faster?
+94040 Why aren't quarks free?
+20056 Superluminal expansion of the early universe how is this possible?
+119176 How does gamma ray emission make an atom more stable?
+101674 Gaussian Integral by Substitution
+23358 Hubble time, the age of the Universe and expansion rate
+11686 finding angular velocity and regular velocity when bouncing off a surface with friction
+61592 Naked singularity and extendable geodesics
+14791 Why are the even and odd Regge trajectories degenerate?
+6863 Why does Fukushima pressure rise?
+34130 How to make a monopole magnet?
+133942 Time, distance perception
+36412 What gives matter Gravitational Mass?
+70186 Are Newton's "laws" of motion laws or definitions of force and mass?
+7421 Brachistochrone Problem for Inhomogeneous Potential
+133431 Can expansion of space create energy?
+19536 Is there a Non-perturbative renormalization algorithm?
+113647 The relationship between the Hubble Constant and cosmological time
+101188 How to model a rising helium balloon?
+51723 How were the crystal lattices of elements determined to perfection ? (Ex:- That of a copper is a cubic lattice )
+75977 Is Veneziano amplitude able to explain the physical properties of strongly interacting hadrons (such as proton and neutron)?
+9864 How to define angular momentum in other than three dimensions?
+105071 Can a gravitational field be diluted or shielded?
+29176 Where can I find beginner's information about quantum mechanics?
+55340 How does lightning "know" where to go?
+45849 Origin of lepton/quark generations?
+62099 Functions of Time
+99754 What jobs can you get in the field of physics?
+110207 While Space-man lives for 1 day, then how long does Earth-man live ? 1000 years or 1 second?
+102370 Why do particular materials allow particular light waves to pass through them?
+110669 Is gravitational time dilation different from other forms of time dilation?
+129408 Can pressure in bars be equated to flow in litres per second?
+3656 Can spacetime be non-orientable?
+112011 Nonzero ground state energy of the quantum harmonic oscillator
+86270 Dual nature of Matter at gross level
+130773 Why does coke fizz more when you add ice
+66922 Quarks and anti-quarks forming particles
+57975 Force with zero acceleration
+75108 Is it possible to have a magnet which looks like a hollow cylinder and who's north is interior and south is exterior?
+15684 What are the mechanics by which Time Dilation and Length Contraction occur?
+129137 Black Hole gravity pull
+93874 Is there any way to read the Feynman Lectures for free?
+52195 Ultrasonic wave through air
+68955 How does dark matter halo outside a galaxy help to explain galaxy rotation curve?
+91803 Why will an accelerated electron emit a photon?
+73234 Nuclear Fission and Fusion
+47379 What is the weight equation through general relativity?
+110581 Do COBE, WMAP, or Planck data show time-variance of the CMB's anisotropies?
+63456 Does the slinky base stay perfectly level during the initial free fall
+22713 Jumping in an elevator?
+37772 Why doesn't a fly fall off the wall?
+49956 Any new texts directly on second law of thermodynamics?
+66363 Estimating the present state of stars
+64834 Does quantum mechanics depend solely on electromagnetic waves?
+100041 Caldeira-Leggett Dissipation: cannot get it
+53790 What happens if an atom absorbs a photon of energy higher than first excited state but lower than second excited state?
+63987 Why don't electric workers get electrocuted when only touching one wire?
+23118 Are we inside a black hole?
+98516 What is the nature of energy?
+48534 Does kinetic friction increase as speed increases?
+134356 Special Relativity, 2nd Postulate -- Why?
+75715 Elastic potential energy of compressed spring?
+133714 Derivation of formula of potential energy by a conservative force
+14436 How do you prove $S=-\sum p\ln p$?
+11527 The Higgs field a new Luminiferous aether?
+120107 What keeps objects made of gold apart?
+64751 Derivation of the Biot-Savart Law
+98980 The speed of light as it approaches a massive body
+13030 Why does the air flow faster over the top of an airfoil?
+28781 Why, when one opens 1 car window, does that noise occur?
+66527 Why didn't a black hole form right after the Big Bang?
+99505 What is the conclusion from Aharonov-Bohm Effect?
+99779 Can a value of "length, in meters" be attributed to a pair of ends which are rigid (but not at rest) to each other?
+9389 Good book about elementary particles for high school students?
+26992 Spectrum of Free Strings
+35645 How does the curiosity rover get it's power?
+123513 Doughnut magnet
+43768 After what speed air friction starts to heat up an object?
+28417 Why does the light bulb's brightness decrease?
+95889 Why do surfaces act like barriers for electrons?
+73209 Is the total angular momentum of the universe zero?
+89787 Centrifugal force acting on ring
+129314 Calculating Hubble's constant at earlier times
+78222 Prove $[A,B^n] = nB^{n-1}[A,B]$
+18662 Why can't airplanes just keep going up?
+12995 Virtual particle production in space-time.
+123173 Kinematics question - Newton's Law of Motion
+63138 Capacitors discharging in series
+86989 What "time" is it for or on Voyager 1? If you could be "still" in the Universe who fast would time be?
+43986 Meaning of the direction of the cross product
+133230 Resistors in para and series circuit, finding volt
+62653 Attraction and repulsion of Magnetic materials
+41211 What is the difference between a spinor and a vector or a tensor?
+133488 Would days be longer as the polar ice caps melt?
+20637 How could this damped oscillator ever go to infinity? Or negative infinity for that matter?
+45495 Why does the universe exhibit three large-scale spatial dimensions?
+83524 Harmonic Motion
+115204 Visualization of electromagnetic field
+47389 Does Bernoulli's principle hold in moving reference frames?
+13624 Why are higher order Lagrangians called 'non-local'?
+34352 How is light affected by gravity?
+111213 How did WMAP measure the flatness of space?
+26845 Lorentz force in Dirac theory and its classical limit
+86367 Is there a way I can prevent static electricty buildup from shocking me?
+20744 Stability of neutron
+59617 Hurdles in creating (close to) infinite images
+66980 Measurements and simultaneity
+105013 Could a super conductor actually be used to repel gravity?
+4635 Understanding weight on an inclined plane
+30616 Energy efficiency of antimatter producion
+17408 Do atmospheric physics prevent hot air balloons from ascending over 60,000ft?
+106501 Is Dark Energy Pushing Us Or Pulling Us?
+38236 Does the sign of $\Delta x$ matter in this time dilation calculation?
+129340 The role of SO(3) and SU(2) in quantum mechanics
+10308 The "Nerd Sniping" problem. Generalizations?
+20460 Gauge pressure vs. absolute pressure?
+22923 Slit screen and wave-particle duality
+112406 Why the orbital angular momentum equal zero for electron in s state? does it mean that the electron doesn't orbiting in s
+27423 Matlab package: graphical calculus for quantum operations (esp. linear optics)
+41245 What is the present state of Mach's Principle amongst physicists?
+6725 If both radio waves and gamma rays can travel through walls
+1372 Is rotational motion relative to space?
+11673 Algorithm of Lightning Strikes?
+16082 How do I find the frictional force using a free body diagram?

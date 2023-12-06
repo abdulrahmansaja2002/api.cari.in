@@ -1,0 +1,12 @@
+# pyhton cache folder
+__pycache__/
+
+# virtualenv
+venv/
+.env/
+
+# collections data
+collections/
+
+# models data
+model/
